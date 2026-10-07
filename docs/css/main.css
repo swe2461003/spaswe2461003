@@ -1,0 +1,10 @@
+:root { --primary: #2bac73; --secondary: #ff914d; }
+.app-sticky { position: sticky; top: 0; z-index: 1000; background: #fff; }
+.app-shadow { box-shadow: 0 2px 8px rgba(0,0,0,.15); }
+.app-logo p { color: var(--primary); font-size: 1rem; }
+.app-logo span { color: var(--secondary); }
+.app-logo:hover, .app-logo:focus { background: transparent !important; }
+.navbar-item { gap: 8px; }
+.app-top-navbar-right { flex-grow: 1; justify-content: flex-end; }
+.navbar-end a { color: var(--secondary); }
+.navbar-item.is-active { color: var(--primary) !important; border-bottom: 3px solid var(--primary); }
