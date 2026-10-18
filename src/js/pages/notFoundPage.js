@@ -1,5 +1,13 @@
-import { renderSimplePage } from "../layouts/pageLayout.js";
+import { renderPageLayout } from "../layouts/pageLayout.js";
 
 export function renderNotFoundPage() {
-  renderSimplePage("notFound");
+  const app = document.getElementById("app");
+
+  app.innerHTML = renderPageLayout({
+    id: "notFound",
+    title: "Not Found",
+    content: `
+      <p>Welcome to the Not Found page.</p>
+    `,
+  });
 }

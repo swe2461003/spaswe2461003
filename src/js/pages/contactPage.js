@@ -1,5 +1,13 @@
-import { renderSimplePage } from "../layouts/pageLayout.js";
+import { renderPageLayout } from "../layouts/pageLayout.js";
 
 export function renderContactPage() {
-  renderSimplePage("contact");
+  const app = document.getElementById("app");
+
+  app.innerHTML = renderPageLayout({
+    id: "contact",
+    title: "Contact",
+    content: `
+      <p>Welcome to the Contact page.</p>
+    `,
+  });
 }

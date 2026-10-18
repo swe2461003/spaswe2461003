@@ -1,5 +1,13 @@
-import { renderSimplePage } from "../layouts/pageLayout.js";
+import { renderPageLayout } from "../layouts/pageLayout.js";
 
 export function renderBooksPage() {
-  renderSimplePage("books");
+  const app = document.getElementById("app");
+
+  app.innerHTML = renderPageLayout({
+    id: "books",
+    title: "Books",
+    content: `
+      <p>Welcome to the Books page.</p>
+    `,
+  });
 }

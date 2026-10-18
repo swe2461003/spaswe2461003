@@ -1,5 +1,13 @@
-import { renderSimplePage } from "../layouts/pageLayout.js";
+import { renderPageLayout } from "../layouts/pageLayout.js";
 
 export function renderCalculationPage() {
-  renderSimplePage("calculation");
+  const app = document.getElementById("app");
+
+  app.innerHTML = renderPageLayout({
+    id: "calculation",
+    title: "Calculation",
+    content: `
+      <p>Welcome to the Calculation page.</p>
+    `,
+  });
 }
