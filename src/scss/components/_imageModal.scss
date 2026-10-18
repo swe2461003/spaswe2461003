@@ -1,0 +1,72 @@
+/* Хүснэгт доторх зургийн тоог харуулах жижиг дугуй */
+.image-count-tag {
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  border-radius: 999px;
+
+  &:hover {
+    background-color: $primaryColorDark; // Арай бараан ногоон
+  }
+}
+
+/* Modal цонхны хэлбэржүүлэлт */
+#imageModal {
+  .modal-card {
+    width: 640px;
+    max-width: calc(100vw - 2rem);
+    border-radius: 16px;
+    overflow: hidden;
+  }
+
+  .modal-card-head {
+    padding: 1.2rem 1.5rem;
+  }
+
+  .modal-card-body {
+    padding: 1.5rem;
+    overflow: auto;
+  }
+
+  #slideshowImage {
+    max-width: 100%;
+    max-height: 52vh;
+    width: auto;
+    object-fit: contain;
+    border-radius: 12px;
+  }
+}
+
+/* Зураг томруулах */
+.zoomable-image {
+  cursor: zoom-in;
+  transition: transform 0.2s ease;
+  transform-origin: center center;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+/* Fullscreen товч */
+#fullscreenBtn {
+  border: none;
+}
+
+/* Жижиг дэлгэцэд тохируулах */
+@media screen and (max-width: 768px) {
+  #imageModal {
+    .modal-card {
+      width: calc(100vw - 1rem);
+      max-width: none;
+      margin: 0.5rem;
+    }
+
+    .modal-card-head,
+    .modal-card-body {
+      padding: 1rem;
+    }
+
+    #slideshowImage {
+      max-height: 60vh;
+    }
+  }
+}
