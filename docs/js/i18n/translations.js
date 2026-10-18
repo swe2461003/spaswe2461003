@@ -1,4 +1,3 @@
-```javascript
 export const translations = {
   mn: {
     nav: {
@@ -11,20 +10,18 @@ export const translations = {
       brandSpan: "Монголын",
       brand: "хүнсний найрлагын мэдээллийн сан",
     },
-
     overview: {
       title: "Тойм",
       welcome: "Тойм хуудсанд тавтай морил.",
     },
-
     searchPage: {
       title: "Хүнс хайх",
     },
-
     sidebar: {
       searchByFoodName: "Хүнсний нэрээр хайх",
       foodName: "Хүнсний нэр",
       searchButton: "Хайх",
+
       searchSettings: "Хайх тохиргоо",
       nutritions: "Шим тэжээл",
       proximates: "Илчлэг, үндсэн шимт бодис",
@@ -32,13 +29,13 @@ export const translations = {
       vitamins: "Амин дэм",
       sampleInformations: "Дээжийн мэдээлэл",
       collection_information: "Цуглуулсан мэдээлэл",
-      edible_inedible_part: "Идэх болон идэхгүй хэсэг",
+      edible_inedible_part: "Идэх идэхгүй хэсэг",
       pretreatment_conditions: "Боловсруулалт",
       description: "Тайлбар",
       images: "Зураг",
+
       searchByFoodGroups: "Хүнсний бүлгээр хайх",
     },
-
     table: {
       foodName: "Хүнсний нэр",
       foodGroup: "Хүнсний бүлэг",
@@ -63,7 +60,6 @@ export const translations = {
       "Other cooking (processing) conditions": "Бусад боловсруулах нөхцөл",
       "Reference for condition setting": "Нөхцөл тогтоосон үндэслэл",
     },
-
     nutrients: {
       "Energy (kcal)": "Илчлэг (ккал)",
       "Water (g)": "Ус (г)",
@@ -71,27 +67,27 @@ export const translations = {
       "Fat (g)": "Өөх тос (г)",
       "Ash (g)": "Үнс (г)",
       "Carbohydrate (g)": "Нүүрс ус (г)",
+
       "Calcium (mg)": "Кальци (мг)",
       "Iron (mg)": "Төмөр (мг)",
       "Phosphorus (mg)": "Фосфор (мг)",
       "Potassium (mg)": "Кали (мг)",
       "Sodium (mg)": "Натри (мг)",
-      "Vitamin A (μg)": "А амин дэм (μг)",
+
+      "Vitamin A (μg)": "А витамин (μг)",
       "Thiamin (mg)": "Тиамин (мг)",
       "Riboflavin (mg)": "Рибофлавин (мг)",
-      "Vitamin C (mg)": "С амин дэм (мг)",
+      "Vitamin C (mg)": "С витамин (мг)",
       "Refuse (%)": "Хаягдал (%)",
     },
-
     notification: {
       noMatchFound: "Илэрц олдсонгүй.",
       selectAtLeastOneCategory: "Ядаж нэг шим тэжээлийн ангилал сонгоно уу.",
-      enterFoodName: "Хүнсний нэр оруулна уу.",
+      enterFoodName: "Хүнсний нэр оруулна уу",
       loadingData: "Өгөгдөл ачаалж байна...",
       failedToLoadNutritionData: "Хүнсний найрлагын өгөгдөл ачаалахад алдаа гарлаа.",
     },
   },
-
   en: {
     nav: {
       overview: "Overview",
@@ -103,34 +99,32 @@ export const translations = {
       brandSpan: "Mongolian",
       brand: "Food Composition Database",
     },
-
     overview: {
       title: "Overview",
       welcome: "Welcome to the overview page.",
     },
-
     searchPage: {
       title: "Food search",
     },
-
     sidebar: {
       searchByFoodName: "Search by food name",
       foodName: "Food name",
       searchButton: "Search",
+
       searchSettings: "Search settings",
-      nutritions: "Nutrients",
+      nutritions: "Nutritions",
       proximates: "Proximates",
       minerals: "Minerals",
       vitamins: "Vitamins",
-      sampleInformations: "Sample information",
-      collection_information: "Collection information",
-      edible_inedible_part: "Edible and inedible parts",
-      pretreatment_conditions: "Processing conditions",
+      sampleInformations: "Sample informations",
+      collection_information: "Collection Information",
+      edible_inedible_part: "Edible Inedible Part",
+      pretreatment_conditions: "Pretreatment Conditions",
       description: "Description",
       images: "Images",
+
       searchByFoodGroups: "Search by food groups",
     },
-
     table: {
       foodName: "Food name",
       foodGroup: "Food group",
@@ -139,7 +133,7 @@ export const translations = {
       province: "Province",
       description: "Description",
       images: "Images",
-      numberOfImages: "Number of images",
+      numberOfImages: "Number of Images",
 
       "Collection area": "Collection area",
       "Collection date": "Collection date",
@@ -155,7 +149,6 @@ export const translations = {
       "Other cooking (processing) conditions": "Other cooking (processing) conditions",
       "Reference for condition setting": "Reference for condition setting",
     },
-
     nutrients: {
       "Energy (kcal)": "Energy (kcal)",
       "Water (g)": "Water (g)",
@@ -163,25 +156,25 @@ export const translations = {
       "Fat (g)": "Fat (g)",
       "Ash (g)": "Ash (g)",
       "Carbohydrate (g)": "Carbohydrate (g)",
+
       "Calcium (mg)": "Calcium (mg)",
       "Iron (mg)": "Iron (mg)",
       "Phosphorus (mg)": "Phosphorus (mg)",
       "Potassium (mg)": "Potassium (mg)",
       "Sodium (mg)": "Sodium (mg)",
+
       "Vitamin A (μg)": "Vitamin A (μg)",
       "Thiamin (mg)": "Thiamin (mg)",
       "Riboflavin (mg)": "Riboflavin (mg)",
       "Vitamin C (mg)": "Vitamin C (mg)",
       "Refuse (%)": "Refuse (%)",
     },
-
     notification: {
       noMatchFound: "No match found.",
-      selectAtLeastOneCategory: "Please select at least one nutrient category.",
+      selectAtLeastOneCategory: "Please select at least one nutrition category.",
       enterFoodName: "Please enter a food name.",
       loadingData: "Loading data...",
       failedToLoadNutritionData: "Failed to load nutrition data.",
     },
   },
 };
-```;
