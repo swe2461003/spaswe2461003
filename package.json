@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch src/scss/main.scss src/css/main.css",
-    "generate:images": "node src/tools/generate-images-json.mjs"
+    "generate:images": "node src/tools/generate-images-json.mjs",
+    "unique:fields": "node src/tools/searchUniqueField.js",
+    "convert:nutritions": "node src/tools/convertNutritionsEnMn.js"
   },
   "keywords": [],
   "author": "",

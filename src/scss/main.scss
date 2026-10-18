@@ -1,13 +1,19 @@
 @use "sass:color";
 
-// Variables
+// =========================
+// VARIABLES
+// =========================
+
 $primaryColor: #2bac73;
 $primaryColorDark: color.scale($primaryColor, $lightness: -15%);
 
 $secondaryColor: #ff914d;
 $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
 
-// CSS variables
+// =========================
+// ROOT VARIABLES
+// =========================
+
 :root {
   --border: #ececf2;
   --sidebar-width: clamp(280px, 22vw, 340px);
@@ -23,17 +29,22 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
   --overlay: rgba(15, 23, 42, 0.55);
 }
 
-// Import styles
+// =========================
+// IMPORTS
+// =========================
+
 @import "../../node_modules/bulma/bulma";
 @import "./components/buttons";
 @import "./components/navbar";
 @import "./layouts/sidebarPageLayout";
 @import "./components/sidebarMenuList";
 @import "./layouts/pageTableContentsLayout";
+@import "./components/imageModal";
 
 // =========================
-// DESKTOP (769px and above)
+// DESKTOP (>= 769px)
 // =========================
+
 @media screen and (min-width: 769px) {
   .app-mobile-sidebar,
   .app-sidebar-mobile-head {
@@ -49,9 +60,14 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
 }
 
 // =========================
-// TABLET (769px - 1023px)
+// TABLET (<= 1023px)
 // =========================
-@media screen and (min-width: 769px) and (max-width: 1023px) {
+
+@media screen and (max-width: 1023px) {
+  // .app-main-content {
+  //   padding: 2rem 2rem 2.5rem;
+  // }
+
   .app-title {
     line-height: 1.1;
     margin-bottom: 0.9rem;
@@ -67,8 +83,9 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
 }
 
 // =========================
-// MOBILE (768px and below)
+// MOBILE (<= 768px)
 // =========================
+
 @media screen and (max-width: 768px) {
   .app-shell {
     display: block;
@@ -87,9 +104,8 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
     max-width: 85vw;
     min-width: unset;
     height: 100vh;
-    height: 100dvh;
     z-index: 40;
-    background: var(--sidebar-bg);
+    background: #fff;
     border-right: 1px solid var(--border);
     border-bottom: 0;
     padding: 1rem 1rem 2rem;
@@ -109,10 +125,13 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
     margin-bottom: 0.75rem;
   }
 
+  // .app-main-content {
+  //   padding: 1.25rem 1rem 2rem;
+  // }
+
   .app-title {
-    font-size: 2rem;
+    font-size: 1.65rem;
     line-height: 1.15;
-    letter-spacing: -0.03em;
   }
 
   .app-subtitle {
@@ -127,11 +146,16 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
 }
 
 // =========================
-// SMALL MOBILE (480px and below)
+// SMALL MOBILE (<= 480px)
 // =========================
+
 @media screen and (max-width: 480px) {
+  // .app-main-content {
+  //   padding: 1rem 0.9rem 1.5rem;
+  // }
+
   .app-title {
-    font-size: 1.75rem;
+    font-size: 1.45rem;
   }
 
   .app-subtitle {

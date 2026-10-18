@@ -2,95 +2,81 @@ import { titleFromKey, escapeHtml } from "../fn/format.js";
 import { renderTable } from "../layouts/tableLayout.js";
 import { renderNotification } from "../layouts/notificationLayout.js";
 import { getImagesByFoodCode } from "../services/imageService.js";
+import { getLocalizedValue, formatDate, t } from "../i18n/i18n.js";
 
-/*
-  Хайлтын үр дүнгийн хүснэгт үүсгэнэ.
-
-  items = Хайлтаар олдсон хүнсний мэдээллийн JSON өгөгдөл
-  selectedTypes = Сонгосон шим тэжээлийн төрлүүд
-  Жишээ: ["proximates", "minerals", "vitamins"]
-*/
+// Хайлтын үр дүнгийн хүснэгтүүдийг харуулах
 export function renderNutritionTables(items, selectedTypes) {
-  // Хайлтын үр дүн олдоогүй бол мэдэгдэл харуулна.
-  if (!items || !items.length) {
-    return renderNotification("No match found.");
+  if (!items || items.length === 0) {
+    return renderNotification(t("notification.noMatchFound"));
   }
 
-  // Шим тэжээлийн төрөл сонгоогүй бол мэдэгдэл харуулна.
-  if (!selectedTypes || !selectedTypes.length) {
-    return renderNotification("Please select at least one nutrition category.");
+  if (!selectedTypes || selectedTypes.length === 0) {
+    return renderNotification(t("notification.selectAtLeastOneCategory"));
   }
 
-  // Сонгосон төрөл бүрээр хүснэгт үүсгэнэ.
   return selectedTypes.map((type) => renderTableByType(type, items)).join("");
 }
 
-/*
-  Сонгосон төрлөөс хамаарч хүснэгт үүсгэнэ.
-*/
+// Сонгосон төрлөөр хүснэгт үүсгэх
 function renderTableByType(type, items) {
-  // 1. Хүнсний ерөнхий мэдээлэл
+  // Тайлбарын хүснэгт
   if (type === "description") {
     return renderTable({
-      title: "Description",
+      title: t("table.description"),
       columns: [
-        { key: "food_name", label: "Food name" },
-        { key: "food_group", label: "Food group" },
-        { key: "scientific_name", label: "Scientific name" },
-        { key: "native_name", label: "Native name" },
-        { key: "province", label: "Province" },
+        { key: "food_name", label: t("table.foodName") },
+        { key: "food_group", label: t("table.foodGroup") },
+        { key: "scientific_name", label: t("table.scientificName") },
+        { key: "province", label: t("table.province") },
       ],
-      rows: items,
+      rows: items.map((item) => ({
+        ...item,
+        food_name: getLocalizedValue(item.food_name),
+        food_group: getLocalizedValue(item.food_group),
+        province: getLocalizedValue(item.province),
+      })),
     });
   }
 
-  // 2. Хүнсний зургийн мэдээлэл
+  // Зургийн хүснэгт
   if (type === "images") {
     return renderTable({
-      title: "Images",
+      title: t("table.images"),
       columns: [
         {
           key: "food_name",
-          label: "Food name",
+          label: t("table.foodName"),
         },
         {
           key: "number_of_images",
-          label: "Number of Images",
+          label: t("table.numberOfImages"),
           render: (item) => {
             const images = getImagesByFoodCode(item.food_code);
+
             const count = images.length;
 
-            if (count === 0) {
-              return "-";
-            }
-
-            return `
-              <span
-                class="tag is-primary image-count-tag open-image-btn"
-                data-foodcode="${escapeHtml(item.food_code ?? "")}"
-                data-foodname="${escapeHtml(item.food_name ?? "")}"
-                role="button"
-                tabindex="0"
-                aria-label="View ${count} images"
-              >
-                ${count}
-              </span>
-            `;
+            return count > 0
+              ? `
+                                <span
+                                    class="tag is-primary image-count-tag open-image-btn"
+                                    data-foodcode="${escapeHtml(item.food_code)}"
+                                    data-foodname="${escapeHtml(getLocalizedValue(item.food_name))}"
+                                >
+                                    ${count}
+                                </span>
+                            `
+              : "-";
           },
         },
       ],
-      rows: items,
+      rows: items.map((item) => ({
+        ...item,
+        food_name: getLocalizedValue(item.food_name),
+      })),
     });
   }
 
-  /*
-    3. Шим тэжээлийн мэдээлэл.
-
-    Жишээ төрөл:
-    proximates, minerals, vitamins
-
-    Сонгосон төрөл доторх бүх талбарын нэрийг цуглуулна.
-  */
+  // Сонгосон шим тэжээлийн төрлийн бүх талбарыг цуглуулах
   const nutrientKeys = Array.from(
     new Set(
       items.flatMap((item) => {
@@ -101,28 +87,46 @@ function renderTableByType(type, items) {
     ),
   );
 
-  // Хүснэгтийн багануудыг үүсгэнэ.
+  // Хүснэгтийн багануудыг үүсгэх
   const columns = [
-    { key: "food_name", label: "Food name" },
-    ...nutrientKeys.map((key) => ({
-      key,
-      label: key,
-    })),
+    {
+      key: "food_name",
+      label: t("table.foodName"),
+    },
+    ...nutrientKeys.map((key) => {
+      const tableTranslation = t(`table.${key}`);
+      const nutrientTranslation = t(`nutrients.${key}`);
+
+      return {
+        key,
+        label:
+          tableTranslation !== `table.${key}` ? tableTranslation : nutrientTranslation !== `nutrients.${key}` ? nutrientTranslation : key,
+      };
+    }),
   ];
 
-  // Хүснэгтийн мөрүүдийг үүсгэнэ.
+  // Хүснэгтийн мөрүүдийг үүсгэх
   const rows = items.map((item) => {
-    const data = item?.[type];
+    const nutrientData = item?.[type];
+
+    const rowData = getLocalizedValue(nutrientData && typeof nutrientData === "object" && !Array.isArray(nutrientData) ? nutrientData : {});
+
+    // Огноог одоогийн хэлний форматад оруулах
+    if (rowData["Collection date"]) {
+      rowData["Collection date"] = formatDate(rowData["Collection date"]);
+    }
 
     return {
-      food_name: item.food_name ?? "",
-      ...(data && typeof data === "object" && !Array.isArray(data) ? data : {}),
+      food_name: getLocalizedValue(item.food_name),
+      ...rowData,
     };
   });
 
-  // Бэлэн хүснэгтийг буцаана.
+  // Хүснэгтийг буцаах
+  const translatedTitle = t(`sidebar.${type}`);
+
   return renderTable({
-    title: titleFromKey(type),
+    title: translatedTitle !== `sidebar.${type}` ? translatedTitle : titleFromKey(type),
     columns,
     rows,
   });

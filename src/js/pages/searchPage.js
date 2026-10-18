@@ -16,70 +16,70 @@ import { loadImages } from "../services/imageService.js";
 
 import { renderImageModal, bindImageModalEvents } from "../components/imageModal.js";
 
+import { t } from "../i18n/i18n.js";
+
 let imageModalBound = false;
 
-/*
-  Хайлтын хуудсыг үүсгэнэ.
-*/
+// Хайлтын хуудсыг үүсгэх
 export async function renderSearchPage() {
   const app = document.getElementById("app");
 
   if (!app) {
-    console.error('Element with id="app" was not found.');
+    console.error('HTML дотор id="app" элемент олдсонгүй.');
     return;
   }
 
-  // Өгөгдөл ачаалж байх үед мэдэгдэл харуулна.
+  // Өгөгдөл ачаалж байх үеийн мэдээлэл
   app.innerHTML = renderPageLayout({
-    content: renderNotification("Loading data..."),
+    content: renderNotification(t("notification.loadingData")),
   });
 
   try {
-    // Хүнсний найрлагын өгөгдлийг авна.
+    // Хүнсний найрлагын JSON өгөгдлийг ачаална
     const nutritionData = await getNutritions();
 
-    // Зургийн JSON өгөгдлийг ачаална.
+    // Хүнсний зургийн өгөгдлийг ачаална
     await loadImages();
 
-    // Хайлтын модулийн өгөгдлийг тохируулна.
+    // Хайлтын модульд өгөгдлийг дамжуулна
     initNutritionData(nutritionData);
 
-    // Хүнсийг food_group-ээр бүлэглэнэ.
+    // Хүнсийг food_group-ээр бүлэглэнэ
     const groupedFoods = buildFoodGroups(nutritionData);
 
-    /*
-      Sidebar болон үндсэн агуулгыг үүсгэнэ.
-      renderImageModal() нь modal цонхны HTML-ийг нэмнэ.
-    */
+    // Хайлтын хуудсыг үүсгэж харуулна
     app.innerHTML =
       renderSidebarPageLayout({
         sidebarContent: `
-          ${renderSearchFoodName()}
-          ${renderSearchSettings()}
-          ${renderFoodGroupList(groupedFoods)}
-        `,
+                    ${renderSearchFoodName()}
+                    ${renderSearchSettings()}
+                    ${renderFoodGroupList(groupedFoods)}
+                `,
         pageId: "search",
-        pageTitle: "Food Composition Database",
+        pageTitle: t("searchPage.title"),
         mainContent: `
-          <div id="resultTbl">
-            ${renderDefaultTables(nutritionData)}
-          </div>
-        `,
+                    <div id="resultTbl">
+                        ${renderDefaultTables(nutritionData)}
+                    </div>
+                `,
       }) + renderImageModal();
 
-    // Sidebar болон хайлтын үйлдлүүдийг холбоно.
+    // Sidebar болон жагсаалтын үйлдлүүдийг холбоно
     bindSidebar();
     bindMenuListToggle();
+
+    // Хайлтын event-үүдийг холбоно
     bindSearchEvents();
 
-    // Зургийн modal event-үүдийг нэг удаа холбоно.
+    // Зургийн modal-ийн event-ийг нэг удаа холбоно
     if (!imageModalBound) {
       bindImageModalEvents();
       imageModalBound = true;
     }
   } catch (error) {
+    // Өгөгдөл ачаалахад алдаа гарвал мэдээлэл харуулна
     app.innerHTML = renderPageLayout({
-      content: renderNotification("Failed to load nutrition data.", "danger"),
+      content: renderNotification(t("notification.failedToLoadNutritionData"), "danger"),
     });
 
     console.error("Failed to load nutrition data:", error);
