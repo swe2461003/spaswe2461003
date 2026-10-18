@@ -1,4 +1,3 @@
-```javascript
 const fs = require("fs");
 const path = require("path");
 
@@ -335,4 +334,3 @@ try {
     console.error("Файл хадгалахад алдаа гарлаа:", error.message);
     process.exit(1);
 }
-```;
