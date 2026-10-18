@@ -11,6 +11,18 @@
   "license": "ISC",
   "devDependencies": {
     "bulma": "^1.0.4",
-    "sass": "^1.93.0"
-  }
+    "sass": "^1.105.2"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swe2461003/spaswe2461003.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/swe2461003/spaswe2461003/issues"
+  },
+  "homepage": "https://github.com/swe2461003/spaswe2461003#readme"
 }

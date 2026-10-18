@@ -1,0 +1,36 @@
+// Components: Search Food Group List Sidebar
+
+// Search type: Search by food groups
+.app-menu-label {
+  // color: var(--orange);
+  font-size: 1.05rem;
+  font-weight: 800;
+  text-transform: none;
+  letter-spacing: 0;
+  margin-bottom: 0.4rem;
+  margin-top: 1.25rem;
+}
+
+// Food group name: Cereals and cereal products
+.app-toggle-sublist {
+  white-space: nowrap;
+}
+
+// Food name: Barley flour, whole grain
+.app-sublist-item {
+  white-space: nowrap;
+  line-height: 1.6rem;
+  cursor: pointer;
+
+  &:hover {
+    background: var(--hover-bg);
+  }
+
+  input[type="checkbox"] {
+    display: none;
+  }
+
+  input[type="checkbox"]:checked + span {
+    color: var(--green);
+  }
+}
