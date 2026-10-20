@@ -1,5 +1,52 @@
 [
   {
+    "food_code": "01_0001",
+    "food_group": "Cereals and Cereal products",
+    "food_name": "Wheat, whole, raw",
+    "scientific_name": "Triticum aestivum",
+    "native_name": "Улаанбуудай, бүтэн үр, түүхий",
+    "province": "Darkhan-Uul",
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": "Darkhan-Uul province, Plant Protection and Research Institute",
+      "Collection date": "24.11.2021",
+      "Basis of sample selection": "Commonly consumed food",
+      "Additional collection information": null
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": null,
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": null,
+      "Other cooking (processing) conditions": null,
+      "Reference for condition setting": null
+    }
+  },
+  {
     "food_code": "01_0106",
     "food_group": "Cereals and Cereal products",
     "food_name": "Barley flour, whole grain",

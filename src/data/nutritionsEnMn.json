@@ -1,5 +1,81 @@
 [
   {
+    "food_code": "01_0001",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat, whole, raw",
+      "mn": "Улаанбуудай, бүтэн үр, түүхий"
+    },
+    "scientific_name": "Triticum aestivum",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Plant Protection and Research Institute",
+        "mn": "Дархан-Уул аймаг, Ургамал хамгаалал эрдэм шинжилгээний хүрээлэн"
+      },
+      "Collection date": "24.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
     "food_code": "01_0106",
     "food_group": {
       "en": "Cereals and Cereal products",

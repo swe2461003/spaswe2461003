@@ -29,7 +29,7 @@ export function renderTable({ title = "", columns = [], rows = [], emptyMessage 
                   .map(
                     (row) => `
                       <tr>
-                        ${columns.map((col) => `<td>${safeValue(row[col.key])}</td>`).join("")}
+                        ${columns.map((col) => `<td>${col.render ? col.render(row) : safeValue(row[col.key])}</td>`).join("")}
                       </tr>
                     `,
                   )
