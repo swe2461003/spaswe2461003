@@ -1,0 +1,11 @@
+src/js/i18n/translations.js
+===========================
+
+    books: {
+      title: "Ном",
+      view: "Үзэх",
+    },
+    books: {
+      title: "Books",
+      view: "View",
+    },

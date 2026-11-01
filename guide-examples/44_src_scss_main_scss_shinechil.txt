@@ -1,0 +1,8 @@
+Src/scss/main.scss шинэчил
+==========================
+
+@media screen and (max-width: 768px) {
+  .app-shell {
+    display: block; /* Sidebar + main layout-ийг stack болгоно */
+    height: auto;
+  }

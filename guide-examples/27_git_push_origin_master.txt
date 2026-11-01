@@ -1,0 +1,7 @@
+git push origin master
+======================
+
+git status
+git add -A
+git commit -m ‘calculationPage.js hiiv’
+git push origin master

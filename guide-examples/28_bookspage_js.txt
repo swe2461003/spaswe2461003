@@ -1,0 +1,4 @@
+booksPage.js
+============
+
+src/img/books ба src/pdf хавтас дотор файлуудыг хуулсан.

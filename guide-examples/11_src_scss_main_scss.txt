@@ -1,0 +1,7 @@
+src/scss/main.scss
+==================
+
+@import "./components/map";
+@import "./components/overviewText";
+
+npm run sass
