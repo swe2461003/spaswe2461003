@@ -40,6 +40,11 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
 @import "./components/sidebarMenuList";
 @import "./layouts/pageTableContentsLayout";
 @import "./components/imageModal";
+@import "./components/map";
+@import "./components/overviewText";
+@import "./components/bookCard";
+@import "./components/pdfModal";
+@import "./components/footer";
 
 // =========================
 // DESKTOP (>= 769px)
@@ -89,6 +94,7 @@ $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
 @media screen and (max-width: 768px) {
   .app-shell {
     display: block;
+    height: auto;
   }
 
   .app-mobile-sidebar {
