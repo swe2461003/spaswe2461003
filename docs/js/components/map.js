@@ -71,6 +71,8 @@ const provinceNameMap = {
   Khentii: { en: "Khentii", mn: "Хэнтий" },
   Tuv: { en: "Tuv", mn: "Төв" },
   Ulaanbaatar: { en: "Ulaanbaatar", mn: "Улаанбаатар" },
+  Orkhon: { en: "Orkhon", mn: "Орхон" },
+  "Govi-Sumber": { en: "Govi-Sumber", mn: "Говьсүмбэр" },
   Arkhangai: { en: "Arkhangai", mn: "Архангай" },
   Dundgovi: { en: "Dundgovi", mn: "Дундговь" },
   Uvurkhangai: { en: "Uvurkhangai", mn: "Өвөрхангай" },

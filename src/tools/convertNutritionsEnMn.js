@@ -16,6 +16,7 @@ const foodGroupMnMap = {
   "Oils and Fats": "Тос ба өөх тос",
   Seasonings: "Амтлагч",
   "Prepared foods": "Бэлэн хоол",
+  "Sample data": "Жишиг өгөгдөл",
 };
 
 const provinceMnMap = {
@@ -40,9 +41,11 @@ const provinceMnMap = {
   Umnugovi: "Өмнөговь",
   Bayankhongor: "Баянхонгор",
   Ulaanbaatar: "Улаанбаатар",
+  "Govi-Sumber": "Говьсүмбэр",
 };
 
 const collectionAreaMnMap = {
+  "Sample data": "Жишиг өгөгдөл",
   "Uvs province, Uvs food JSC": "Увс аймаг, Увс хүнс ХК",
   "Khuvsgul province, Altan duulga JSC": "Хөвсгөл аймаг, Алтан дуулга ХК",
   "Ulaanbaatar city, Talkh chikher LC": "Улаанбаатар хот, Талх чихэр ХК",
@@ -86,6 +89,7 @@ const collectionAreaMnMap = {
 };
 
 const basisMnMap = {
+  "Sample data": "Жишиг өгөгдөл",
   "Culture and customs": "Соёл ба зан заншил",
   "Commonly consumed food": "Түгээмэл хэрэглэдэг хүнс",
   Biodiversity: "Биологийн олон янз байдал",

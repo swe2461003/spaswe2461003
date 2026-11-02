@@ -378,5 +378,1449 @@
         "mn": ""
       }
     }
+  },
+  {
+    "food_code": "99_0001",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Dornod)",
+      "mn": "Жишиг хүнс (Дорнод)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Dornod",
+      "mn": "Дорнод"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0002",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Bayan-Ulgii)",
+      "mn": "Жишиг хүнс (Баян-Өлгий)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Bayan-Ulgii",
+      "mn": "Баян-Өлгий"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0003",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Khovd)",
+      "mn": "Жишиг хүнс (Ховд)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Khovd",
+      "mn": "Ховд"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0004",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Sukhbaatar)",
+      "mn": "Жишиг хүнс (Сүхбаатар)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Sukhbaatar",
+      "mn": "Сүхбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0005",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Dornogovi)",
+      "mn": "Жишиг хүнс (Дорноговь)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Dornogovi",
+      "mn": "Дорноговь"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0006",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Govi-Altai)",
+      "mn": "Жишиг хүнс (Говь-Алтай)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Govi-Altai",
+      "mn": "Говь-Алтай"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0007",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Bayankhongor)",
+      "mn": "Жишиг хүнс (Баянхонгор)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Bayankhongor",
+      "mn": "Баянхонгор"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0008",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Umnugovi)",
+      "mn": "Жишиг хүнс (Өмнөговь)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Umnugovi",
+      "mn": "Өмнөговь"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0009",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Bulgan)",
+      "mn": "Жишиг хүнс (Булган)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Bulgan",
+      "mn": "Булган"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0010",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Selenge)",
+      "mn": "Жишиг хүнс (Сэлэнгэ)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0011",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Zavkhan)",
+      "mn": "Жишиг хүнс (Завхан)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Zavkhan",
+      "mn": "Завхан"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0012",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Khentii)",
+      "mn": "Жишиг хүнс (Хэнтий)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Khentii",
+      "mn": "Хэнтий"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0013",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Tuv)",
+      "mn": "Жишиг хүнс (Төв)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Tuv",
+      "mn": "Төв"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0014",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Arkhangai)",
+      "mn": "Жишиг хүнс (Архангай)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Arkhangai",
+      "mn": "Архангай"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0015",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Orkhon)",
+      "mn": "Жишиг хүнс (Орхон)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Orkhon",
+      "mn": "Орхон"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0016",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Dundgovi)",
+      "mn": "Жишиг хүнс (Дундговь)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Dundgovi",
+      "mn": "Дундговь"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0017",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Uvurkhangai)",
+      "mn": "Жишиг хүнс (Өвөрхангай)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Uvurkhangai",
+      "mn": "Өвөрхангай"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0018",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Govi-Sumber)",
+      "mn": "Жишиг хүнс (Говьсүмбэр)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Govi-Sumber",
+      "mn": "Говьсүмбэр"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "99_0019",
+    "food_group": {
+      "en": "Sample data",
+      "mn": "Жишиг өгөгдөл"
+    },
+    "food_name": {
+      "en": "Sample food (Ulaanbaatar)",
+      "mn": "Жишиг хүнс (Улаанбаатар)"
+    },
+    "scientific_name": null,
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Sample data",
+        "mn": "Жишиг өгөгдөл"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
   }
 ]
