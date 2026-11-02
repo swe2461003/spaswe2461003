@@ -226,5 +226,157 @@
         "mn": ""
       }
     }
+  },
+  {
+    "food_code": "01_0201",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat flour, first grade",
+      "mn": "Улаанбуудайн гурил, нэгдүгээр гурил"
+    },
+    "scientific_name": "Triticum aestivum",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Ulaanbaatar flour mill JSC",
+        "mn": "Дархан-Уул аймаг, Улаанбаатар гурил ХК"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Ulaanbaatar flour,  First grade wheat flour",
+        "mn": "Бүтээгдэхүүний нэр: Улаанбаатар гурил, Нэгдүгээр гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0202",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat flour, premium grade",
+      "mn": "Улаанбуудайн гурил, дээд гурил"
+    },
+    "scientific_name": "Triticum aestivum",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Ulaanbaatar flour mill JSC",
+        "mn": "Дархан-Уул аймаг, Улаанбаатар гурил ХК"
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Ulaanbaatar flour,  Premium grade wheat flour",
+        "mn": "Бүтээгдэхүүний нэр: Улаанбаатар гурил, Дээд гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
   }
 ]

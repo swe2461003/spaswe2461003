@@ -139,5 +139,99 @@
       "Other cooking (processing) conditions": null,
       "Reference for condition setting": null
     }
+  },
+  {
+    "food_code": "01_0201",
+    "food_group": "Cereals and Cereal products",
+    "food_name": "Wheat flour, first grade",
+    "scientific_name": "Triticum aestivum",
+    "native_name": "Улаанбуудайн гурил, нэгдүгээр гурил",
+    "province": "Darkhan-Uul",
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": "Darkhan-Uul province, Ulaanbaatar flour mill JSC",
+      "Collection date": null,
+      "Basis of sample selection": "Commonly consumed food",
+      "Additional collection information": "Product name: Ulaanbaatar flour,  First grade wheat flour"
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": null,
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": null,
+      "Other cooking (processing) conditions": null,
+      "Reference for condition setting": null
+    }
+  },
+  {
+    "food_code": "01_0202",
+    "food_group": "Cereals and Cereal products",
+    "food_name": "Wheat flour, premium grade",
+    "scientific_name": "Triticum aestivum",
+    "native_name": "Улаанбуудайн гурил, дээд гурил",
+    "province": "Darkhan-Uul",
+    "proximates": {
+      "Energy (kcal)": null,
+      "Water (g)": null,
+      "Protein (g)": null,
+      "Fat (g)": null,
+      "Ash (g)": null,
+      "Carbohydrate (g)": null
+    },
+    "minerals": {
+      "Calcium (mg)": null,
+      "Iron (mg)": null,
+      "Phosphorus (mg)": null,
+      "Potassium (mg)": null,
+      "Sodium (mg)": null
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": null,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": "Darkhan-Uul province, Ulaanbaatar flour mill JSC",
+      "Collection date": null,
+      "Basis of sample selection": "Commonly consumed food",
+      "Additional collection information": "Product name: Ulaanbaatar flour,  Premium grade wheat flour"
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": null,
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": null,
+      "Other cooking (processing) conditions": null,
+      "Reference for condition setting": null
+    }
   }
 ]

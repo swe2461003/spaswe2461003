@@ -1,4 +1,4 @@
-/* Хүснэгт доторх зургийн тоог харуулах жижиг дугуй */
+// Хүснэгт доторх зураг харуулах тоо бүхий жижиг дугуй
 .image-count-tag {
   cursor: pointer;
   text-align: center;
@@ -6,15 +6,14 @@
   border-radius: 999px;
 
   &:hover {
-    background-color: $primaryColorDark; // Арай бараан ногоон
+    background-color: $primaryColorDark; // арай бараан ногоон
   }
 }
 
-/* Modal цонхны хэлбэржүүлэлт */
+// Modal хэлбэржүүлэх
 #imageModal {
   .modal-card {
     width: 640px;
-    max-width: calc(100vw - 2rem);
     border-radius: 16px;
     overflow: hidden;
   }
@@ -25,11 +24,9 @@
 
   .modal-card-body {
     padding: 1.5rem;
-    overflow: auto;
   }
 
   #slideshowImage {
-    max-width: 100%;
     max-height: 52vh;
     width: auto;
     object-fit: contain;
@@ -37,36 +34,15 @@
   }
 }
 
-/* Зураг томруулах */
+// Зураг дээр zoom хийх
 .zoomable-image {
   cursor: zoom-in;
   transition: transform 0.2s ease;
   transform-origin: center center;
   user-select: none;
-  -webkit-user-drag: none;
 }
 
-/* Fullscreen товч */
+// fullscreen
 #fullscreenBtn {
   border: none;
-}
-
-/* Жижиг дэлгэцэд тохируулах */
-@media screen and (max-width: 768px) {
-  #imageModal {
-    .modal-card {
-      width: calc(100vw - 1rem);
-      max-width: none;
-      margin: 0.5rem;
-    }
-
-    .modal-card-head,
-    .modal-card-body {
-      padding: 1rem;
-    }
-
-    #slideshowImage {
-      max-height: 60vh;
-    }
-  }
 }

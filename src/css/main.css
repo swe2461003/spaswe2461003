@@ -22627,7 +22627,8 @@ has-background-danger.is-hoverable:active {
   color: white;
   transition: all 0.2s ease;
 }
-.button.is-primary:hover, .button.is-primary:focus {
+
+.button.is-primary:hover {
   background-color: rgb(14.3333333333%, 57.3333333333%, 38.3333333333%);
   border-color: rgb(14.3333333333%, 57.3333333333%, 38.3333333333%);
   color: white;
@@ -22639,7 +22640,8 @@ has-background-danger.is-hoverable:active {
   color: white;
   transition: all 0.2s ease;
 }
-.button.is-secondary:hover, .button.is-secondary:focus {
+
+.button.is-secondary:hover {
   background-color: rgb(100%, 44.7940074906%, 10.6666666667%);
   border-color: rgb(100%, 44.7940074906%, 10.6666666667%);
   color: white;
@@ -22652,15 +22654,6 @@ has-background-danger.is-hoverable:active {
 .navbar-brand a span {
   color: #ff914d;
 }
-.navbar-brand .image img {
-  max-width: 64px;
-  height: auto;
-}
-.navbar-brand .app-logo:hover, .navbar-brand .app-logo:focus, .navbar-brand .app-logo:active {
-  background-color: transparent;
-  color: inherit;
-  box-shadow: none;
-}
 
 .navbar-end a {
   color: #ff914d;
@@ -22669,23 +22662,36 @@ has-background-danger.is-hoverable:active {
 .app-sticky {
   position: sticky;
   top: 0;
-  z-index: 1000;
-  background-color: #f5f5f5;
+  z-index: 1000; /* дээр харагдахаар */
+  background-color: #f5f5f5; /* эсвэл өөр өнгө */
 }
 
 .app-shadow {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
+.navbar-brand .image img {
+  max-width: 64px;
+  height: auto;
+}
+
 .navbar-item {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 8px; /* зураг, текстийн хооронд зай */
 }
 
 .app-top-navbar-right {
   flex-grow: 1;
   justify-content: flex-end;
+}
+
+.navbar-brand .app-logo:hover,
+.navbar-brand .app-logo:focus,
+.navbar-brand .app-logo:active {
+  background-color: transparent;
+  color: inherit;
+  box-shadow: none;
 }
 
 .app-mobile-sidebar {
@@ -22806,7 +22812,6 @@ has-background-danger.is-hoverable:active {
   margin-bottom: 2.5rem;
 }
 
-/* Хүснэгт доторх зургийн тоог харуулах жижиг дугуй */
 .image-count-tag {
   cursor: pointer;
   text-align: center;
@@ -22817,10 +22822,8 @@ has-background-danger.is-hoverable:active {
   background-color: rgb(14.3333333333%, 57.3333333333%, 38.3333333333%);
 }
 
-/* Modal цонхны хэлбэржүүлэлт */
 #imageModal .modal-card {
   width: 640px;
-  max-width: calc(100vw - 2rem);
   border-radius: 16px;
   overflow: hidden;
 }
@@ -22829,45 +22832,25 @@ has-background-danger.is-hoverable:active {
 }
 #imageModal .modal-card-body {
   padding: 1.5rem;
-  overflow: auto;
 }
 #imageModal #slideshowImage {
-  max-width: 100%;
   max-height: 52vh;
   width: auto;
   object-fit: contain;
   border-radius: 12px;
 }
 
-/* Зураг томруулах */
 .zoomable-image {
   cursor: zoom-in;
   transition: transform 0.2s ease;
   transform-origin: center center;
   user-select: none;
-  -webkit-user-drag: none;
 }
 
-/* Fullscreen товч */
 #fullscreenBtn {
   border: none;
 }
 
-/* Жижиг дэлгэцэд тохируулах */
-@media screen and (max-width: 768px) {
-  #imageModal .modal-card {
-    width: calc(100vw - 1rem);
-    max-width: none;
-    margin: 0.5rem;
-  }
-  #imageModal .modal-card-head,
-  #imageModal .modal-card-body {
-    padding: 1rem;
-  }
-  #imageModal #slideshowImage {
-    max-height: 60vh;
-  }
-}
 .map-wrap {
   width: 100%;
   overflow: hidden;
@@ -23072,4 +23055,4 @@ has-background-danger.is-hoverable:active {
   }
 }
 
-/*# sourceMappingURL=new.css.map */
+/*# sourceMappingURL=main.css.map */

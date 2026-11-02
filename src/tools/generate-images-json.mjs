@@ -3,7 +3,6 @@ import path from "path";
 
 const projectRoot = process.cwd();
 const imageDir = path.join(projectRoot, "src", "img", "foods");
-
 const outputDir = path.join(projectRoot, "src", "data");
 const outputFile = path.join(outputDir, "images.json");
 
@@ -20,7 +19,6 @@ function isImageFile(fileName) {
 function extractFoodCode(fileName) {
   // 01_0106_001.jpg -> 01_0106
   const match = fileName.match(/^(\d{2}_\d{4})_\d{3}\.(jpg|jpeg|png|webp)$/i);
-
   return match ? match[1] : null;
 }
 
@@ -29,7 +27,6 @@ function buildImageMap(files) {
 
   for (const file of files) {
     const foodCode = extractFoodCode(file);
-
     if (!foodCode) continue;
 
     if (!imageMap[foodCode]) {
@@ -40,7 +37,9 @@ function buildImageMap(files) {
   }
 
   for (const foodCode of Object.keys(imageMap)) {
-    imageMap[foodCode].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+    imageMap[foodCode].sort((a, b) =>
+      a.localeCompare(b, undefined, { numeric: true }),
+    );
   }
 
   return imageMap;
@@ -56,12 +55,10 @@ function main() {
   const imageMap = buildImageMap(files);
 
   ensureDirectoryExists(outputDir);
-
   fs.writeFileSync(outputFile, JSON.stringify(imageMap, null, 2), "utf-8");
 
   console.log(`Generated: ${outputFile}`);
   console.log(`Food codes with images: ${Object.keys(imageMap).length}`);
   console.log(`Total image files: ${files.length}`);
 }
-
 main();
