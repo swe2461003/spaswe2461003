@@ -19,10 +19,15 @@ export function buildFoodGroups(data) {
 
     const groupData = grouped.get(groupKey);
 
-    groupData.items.set(item.food_code, {
-      food_code: item.food_code,
-      food_name: item.food_name,
-    });
+    // Нэр нь давхардсан хүнсийг нэг л удаа харуулна (жинхэнэ кодтой мөрийг давуу эрхтэй)
+    const nameKey = item.food_name?.mn || item.food_name?.en;
+    const existing = groupData.items.get(nameKey);
+    if (!existing || (existing.food_code.startsWith("99_") && !item.food_code.startsWith("99_"))) {
+      groupData.items.set(nameKey, {
+        food_code: item.food_code,
+        food_name: item.food_name,
+      });
+    }
   }
 
   return Array.from(grouped.values()).map((group) => ({
