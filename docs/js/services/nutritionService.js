@@ -9,7 +9,7 @@ export async function getNutritions() {
 
   const url = DATA_MODE === "api" ? API_NUTRITIONS_URL : LOCAL_NUTRITIONS_URL;
 
-  const response = await fetch(url);
+  const response = await fetch(url, { cache: "no-cache" }); // Хуучин өгөгдөл cache-д үлдэхээс сэргийлнэ
 
   if (!response.ok) {
     throw new Error("Failed to load nutritions data");
