@@ -1,39 +1,39 @@
 export function getBooks() {
   return [
     {
-      cover: "./img/books/book-desktop-guidlines.jpg",
-      alt: "Guidelines for The Mongolian Food Composition",
-      pdf: "./pdf/SOP_Mongolia_V2_No_Blanks.pdf",
+      cover: "./img/books/book-of-household-management.jpg",
+      alt: "The Book of Household Management by Isabella Beeton",
+      pdf: "./pdf/book-of-household-management.pdf",
       description: {
-        en: "In Mongolia, the first “Food composition table” was established and published in 1997. It contains information for the following eight groups of products. It includes: Meat and meat products; Milk and dairy products; Cereals and their products; Vegetables; Fruits and their products; Fat, oils; Sugar contents products; Alcoholic. In the first FCT, a total of 12 nutrients of protein, fat, carbohydrates, fiber, ash, and vitamins A, C, E, Ca, K, Na, and Fe are covered in 288 products of the above eight groups. It was managed by the Ministry of Food, agriculture, and Light Industry. The FCT is available in hard copy. It contains few types of foods and has not been updated for more than 20 years.",
-        mn: "Монгол Улсад анхны “Хүнсний найрлагын хүснэгт” (Food Composition Table, FCT) 1997 онд боловсруулагдан хэвлэгдсэн бөгөөд мах, махан бүтээгдэхүүн, сүү, сүүн бүтээгдэхүүн, үр тариа болон түүний бүтээгдэхүүн, хүнсний ногоо, жимс жимсгэнэ болон тэдгээрийн бүтээгдэхүүн, өөх тос, тосон бүтээгдэхүүн, элсэн чихэр агуулсан бүтээгдэхүүн, согтууруулах ундаа гэсэн найман бүлгийн бүтээгдэхүүний мэдээллийг багтаасан байдаг. Энэхүү анхны хүснэгтэд дээрх найман бүлгийн нийт 288 төрлийн хүнсний бүтээгдэхүүний уураг, өөх тос, нүүрс ус, эслэг, үнс, А, С, Е аминдэм, кальци (Ca), кали (K), натри (Na), төмөр (Fe) зэрэг нийт 12 төрлийн шимт бодисын агууламжийг хамруулсан байна. Хүснэгтийг Хүнс, хөдөө аж ахуй, хөнгөн үйлдвэрийн яам хариуцан боловсруулж, хэвлэмэл хэлбэрээр ашиглах боломжтой болгосон. Гэвч энэхүү хүнсний найрлагын хүснэгт нь цөөн төрлийн хүнсийг хамарсан бөгөөд 20 гаруй жилийн хугацаанд шинэчлэгдээгүй байна.",
+        en: "The Book of Household Management by Mrs Isabella Beeton was first published in 1861 and is one of the best-known Victorian guides to running a home. A large part of the book is about cookery: it explains cooking methods and gives a great many recipes for soups, meat, fish, poultry, vegetables, puddings and preserves, together with advice on kitchen management, menus and household care. Source: Project Gutenberg (public domain).",
+        mn: "Хатагтай Изабелла Битоны бичсэн “Гэрийн аж ахуй удирдах ном” нь 1861 онд анх хэвлэгдсэн, Викторийн үеийн гэр бүлийн аж ахуйн хамгийн алдартай гарын авлагуудын нэг юм. Номын томоохон хэсэг нь хоол хийх ухаанд зориулагдсан бөгөөд хоол хийх аргуудыг тайлбарлаж, шөл, мах, загас, шувууны мах, хүнсний ногоо, амттан, бэлтгэл хийх олон жорыг багтаасан. Үүнээс гадна гал тогооны менежмент, хоолны цэс, гэр орны арчилгааны зөвлөгөө өгдөг. Эх сурвалж: Project Gutenberg (нийтийн мэдэл).",
       },
     },
     {
-      cover: "./img/books/book-phone-table.jpg",
-      alt: "Food Composition Table for Mongolia",
-      pdf: "./pdf/FoodCompositionTableForMongolia20240520.pdf",
+      cover: "./img/books/pride-and-prejudice.jpg",
+      alt: "Pride and Prejudice by Jane Austen",
+      pdf: "./pdf/pride-and-prejudice.pdf",
       description: {
-        en: "This new edition of the Mongolia food composition table is based on a systematic data management process and international standards and guidelines for food composition. Food composition data from various Mongolian University of Life Science and research institutes of SAMO in Mongolia were collected and compiled. In addition …… were analyzed fiber, fatty acid, and amino acid composition. Food composition data from other sources (Korean FCT and scientific literature) were used to supplement missing values. The FCT contains 108 foods and 14 mandatory components. Most of the data are raw foods. Two cooked foods and recipes were calculated by using yield factors from Islam et al (2012) and Rahim et al (2013) and retention factors from Eurofir (Vasquez-Caicedo et al., 2008). The FST is divided in a main table (containing values on proximates, minerals, and vitamins) and several annex tables for amino acids, and fatty acids. Moreover, this edition contains protein values based on food-specific nitrogen-to-protein conversion factors instead of a general factor of 6.25, and emphasis was given to include values for total dietary fiber.",
-        mn: "Монгол Улсын Хүнсний найрлагын хүснэгтийн энэхүү шинэ хэвлэл нь хүнсний найрлагын мэдээллийг боловсруулах олон улсын стандарт, удирдамж болон өгөгдлийн системтэй менежментийн үйл явцад тулгуурлан боловсруулагдсан болно. Монгол Улсын Хөдөө аж ахуйн их сургууль болон Шинжлэх ухааны академийн харьяа судалгааны байгууллагуудаас гаргасан хүнсний найрлагын мэдээллийг цуглуулж, нэгтгэн боловсруулсан. Үүнээс гадна эслэг, тосны хүчил болон амин хүчлийн найрлагад шинжилгээ хийсэн. Дутуу мэдээллийг нөхөх зорилгоор БНСУ-ын Хүнсний найрлагын хүснэгт болон эрдэм шинжилгээний бүтээлүүдээс авсан мэдээллийг ашигласан. Энэхүү хүнсний найрлагын хүснэгтэд 108 нэр төрлийн хүнс болон зайлшгүй шаардлагатай 14 үзүүлэлтийг багтаасан бөгөөд ихэнх мэдээлэл нь түүхий хүнсний бүтээгдэхүүнд хамаарна. Мөн хоёр төрлийн болгосон хүнс болон жорын шимт найрлагыг Islam нарын (2012), Rahim нарын (2013) судалгаанд дурдсан гарцын коэффициент (yield factor), EuroFIR-ийн хадгалалтын коэффициент (retention factor)-ийг (Vasquez-Caicedo нар, 2008) ашиглан тооцоолсон. Хүнсний найрлагын хүснэгт нь үндсэн хүснэгт болон хавсралт хүснэгтүүдээс бүрдэх бөгөөд үндсэн хүснэгтэд үндсэн шимт бодисууд, эрдэс бодис, аминдэмийн агууламжийг, харин хавсралт хүснэгтүүдэд амин хүчил болон тосны хүчлийн найрлагын мэдээллийг тус тус оруулсан. Түүнчлэн энэхүү хэвлэлд уургийн агууламжийг тооцоолохдоо нийтлэг хэрэглэгддэг 6.25 коэффициентийн оронд хүнс тус бүрийн азот-уургийн хөрвүүлэх тусгай коэффициентийг ашигласан бөгөөд нийт хүнсний эслэгийн агууламжийн мэдээллийг багтаахад онцгой анхаарал хандуулсан болно.",
+        en: "Pride and Prejudice, published in 1813, is the best-known novel by the English writer Jane Austen. It follows Elizabeth Bennet, the second of five sisters, and her changing relationship with the proud and wealthy Mr Darcy, and with wit and irony it explores manners, marriage, money and social class in early nineteenth-century England. Source: Project Gutenberg (public domain).",
+        mn: "1813 онд хэвлэгдсэн “Бардам занг ба өрөөсгөл үзэл” нь Английн зохиолч Жэйн Остины хамгийн алдартай роман юм. Таван эгч дүүгийн хоёр дахь нь болох Элизабет Беннет болон бардам, чинээлэг ноён Дарси хоёрын харилцааны өөрчлөлтийг өгүүлэх бөгөөд XIX зууны эхэн үеийн Английн ёс жаяг, гэрлэлт, мөнгө, нийгмийн давхаргыг ухаалаг хошин өнгөөр дүрсэлсэн байдаг. Эх сурвалж: Project Gutenberg (нийтийн мэдэл).",
       },
     },
     {
-      cover: "./img/books/book-phone-food.jpg",
-      alt: "Mongolian Traditional Food EN",
-      pdf: "./pdf/foodbook-en.pdf",
+      cover: "./img/books/heart-of-darkness.jpg",
+      alt: "Heart of Darkness by Joseph Conrad",
+      pdf: "./pdf/heart-of-darkness.pdf",
       description: {
-        en: "Mongolia is a landlocked country located in the central part of Asia, between 41°–52° northern latitude and 87°-119° eastern longitude. In terms of land area, it ranks 19th in the world and 7th in Asia. The average elevation of Mongolia is 1,580 meters above sea level, with the highest point reaching 4,374 meters, in dicating its mountainous terrain. Mongolia shares its southern border with China and its northern border with Russia. As a result, the country’s traditional food culture has been slightly influenced by the culinary traditions of its neighbouring countries.",
-        mn: "Монгол улс нь хойд өргөргийн 41°-52°, зүүн уртрагийн 87°-119°-ийн хооронд Ази тивийн төв хэсэгт хуурай газарт оршдог. Газар нутгийн хэмжээгээр дэлхийд 19, Ази тивд 7 дугаарт ордог. Монгол орон нь далайн түвшнөөс дээш дунджаар 1580 м, хамгийн өндөр цэг нь 4374 м байгаа нь уулархаг өндөр болохыг харуулж байна. Монгол улс нь урд талаараа БНХАУ-тай, хойд хэсгээр ОХУ-тай хиллэдэг. Иймд Монголын уламжлалт хоолны соёлд хөрш орнуудын хооллох соёл бага зэрэг нутагшсан байдаг.",
+        en: "Heart of Darkness is a short novel by Joseph Conrad, first published in 1899. The sailor Marlow tells of his journey up a great river in Africa to find Kurtz, an ivory trader, and the story questions colonial ambition, power and the limits of human morality. Source: Project Gutenberg (public domain).",
+        mn: "“Харанхуйн зүрх” бол Жозеф Конрадын 1899 онд анх хэвлэгдсэн богино роман юм. Далайчин Марлоу Африкийн томоохон голоор дээш гарч заан соёо худалдаалагч Куртзыг эрэлхийлсэн аяллаа өгүүлж, колоничлолын амбиц, эрх мэдэл, хүний ёс суртахууны хязгаарыг асуудал болгон тавьдаг. Эх сурвалж: Project Gutenberg (нийтийн мэдэл).",
       },
     },
     {
-      cover: "./img/books/book-phone-food.jpg",
-      alt: "Mongolian Traditional Food MN",
-      pdf: "./pdf/foodbook-mn.pdf",
+      cover: "./img/books/the-great-gatsby.jpg",
+      alt: "The Great Gatsby by F. Scott Fitzgerald",
+      pdf: "./pdf/the-great-gatsby.pdf",
       description: {
-        en: "Mongolia is a landlocked country located in the central part of Asia, between 41°–52° northern latitude and 87°-119° eastern longitude. In terms of land area, it ranks 19th in the world and 7th in Asia. The average elevation of Mongolia is 1,580 meters above sea level, with the highest point reaching 4,374 meters, in dicating its mountainous terrain. Mongolia shares its southern border with China and its northern border with Russia. As a result, the country’s traditional food culture has been slightly influenced by the culinary traditions of its neighbouring countries.",
-        mn: "Монгол улс нь хойд өргөргийн 41°-52°, зүүн уртрагийн 87°-119°-ийн хооронд Ази тивийн төв хэсэгт хуурай газарт оршдог. Газар нутгийн хэмжээгээр дэлхийд 19, Ази тивд 7 дугаарт ордог. Монгол орон нь далайн түвшнөөс дээш дунджаар 1580 м, хамгийн өндөр цэг нь 4374 м байгаа нь уулархаг өндөр болохыг харуулж байна. Монгол улс нь урд талаараа БНХАУ-тай, хойд хэсгээр ОХУ-тай хиллэдэг. Иймд Монголын уламжлалт хоолны соёлд хөрш орнуудын хооллох соёл бага зэрэг нутагшсан байдаг.",
+        en: "The Great Gatsby, published in 1925, is a novel by the American writer F. Scott Fitzgerald. Narrated by Nick Carraway, it tells of the mysterious millionaire Jay Gatsby and his longing for Daisy Buchanan on Long Island in the 1920s, and is often read as a portrait of the American Dream and its limits. Source: Project Gutenberg (public domain).",
+        mn: "1925 онд хэвлэгдсэн “Агуу Гэтсби” бол Америкийн зохиолч Ф. Скотт Фицжералдын роман юм. Ник Каррауэйн нүдээр өгүүлэгдэх энэ зохиол нь 1920-иод оны Лонг Айлэндад амьдарч байсан нууцлаг саятан Жэй Гэтсби болон Дэйзи Бьюканан хоёрын тухай өгүүлэх бөгөөд Америкийн мөрөөдөл ба түүний хязгаарыг дүрсэлсэн бүтээл гэж ихэвчлэн ойлгогддог. Эх сурвалж: Project Gutenberg (нийтийн мэдэл).",
       },
     },
   ];

@@ -754,9 +754,9 @@
   {
     "food_code": "99_0001",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Dornod)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Дорнод)",
+    "native_name": "Халтар арвай",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -781,9 +781,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -801,9 +801,9 @@
   {
     "food_code": "99_0002",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Dornod)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Дорнод)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -828,9 +828,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -848,9 +848,9 @@
   {
     "food_code": "99_0003",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Dornod)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Дорнод)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -875,9 +875,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -895,9 +895,9 @@
   {
     "food_code": "99_0004",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Dornod)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Дорнод)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -922,9 +922,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -942,9 +942,9 @@
   {
     "food_code": "99_0005",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Dornod)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Дорнод)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -969,9 +969,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -989,9 +989,9 @@
   {
     "food_code": "99_0006",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Dornod)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Дорнод)",
+    "native_name": "Бяслаг",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -1016,9 +1016,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1036,9 +1036,9 @@
   {
     "food_code": "99_0007",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Dornod)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Дорнод)",
+    "native_name": "Ааруул",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -1063,9 +1063,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1083,9 +1083,9 @@
   {
     "food_code": "99_0008",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Dornod)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Дорнод)",
+    "native_name": "Ямааны сүү",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -1110,9 +1110,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1130,9 +1130,9 @@
   {
     "food_code": "99_0009",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Dornod)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Дорнод)",
+    "native_name": "Үхрийн сүү",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -1157,9 +1157,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1177,9 +1177,9 @@
   {
     "food_code": "99_0010",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Dornod)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Дорнод)",
+    "native_name": "Цөцгийн тос",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -1204,9 +1204,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1224,9 +1224,9 @@
   {
     "food_code": "99_0011",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Dornod)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Дорнод)",
+    "native_name": "Шар тос",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -1251,9 +1251,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1271,9 +1271,9 @@
   {
     "food_code": "99_0012",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Dornod)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Дорнод)",
+    "native_name": "Айраг",
     "province": "Dornod",
     "proximates": {
       "Energy (kcal)": null,
@@ -1298,9 +1298,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1318,9 +1318,9 @@
   {
     "food_code": "99_0013",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Bayan-Ulgii)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Баян-Өлгий)",
+    "native_name": "Халтар арвай",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1345,9 +1345,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1365,9 +1365,9 @@
   {
     "food_code": "99_0014",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Bayan-Ulgii)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Баян-Өлгий)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1392,9 +1392,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1412,9 +1412,9 @@
   {
     "food_code": "99_0015",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Bayan-Ulgii)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Баян-Өлгий)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1439,9 +1439,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1459,9 +1459,9 @@
   {
     "food_code": "99_0016",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Bayan-Ulgii)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Баян-Өлгий)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1486,9 +1486,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1506,9 +1506,9 @@
   {
     "food_code": "99_0017",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Bayan-Ulgii)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Баян-Өлгий)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1533,9 +1533,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1553,9 +1553,9 @@
   {
     "food_code": "99_0018",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Bayan-Ulgii)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Баян-Өлгий)",
+    "native_name": "Бяслаг",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1580,9 +1580,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1600,9 +1600,9 @@
   {
     "food_code": "99_0019",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Bayan-Ulgii)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Баян-Өлгий)",
+    "native_name": "Ааруул",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1627,9 +1627,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1647,9 +1647,9 @@
   {
     "food_code": "99_0020",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Bayan-Ulgii)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Баян-Өлгий)",
+    "native_name": "Ямааны сүү",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1674,9 +1674,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1694,9 +1694,9 @@
   {
     "food_code": "99_0021",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Bayan-Ulgii)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Баян-Өлгий)",
+    "native_name": "Үхрийн сүү",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1721,9 +1721,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1741,9 +1741,9 @@
   {
     "food_code": "99_0022",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Bayan-Ulgii)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Баян-Өлгий)",
+    "native_name": "Цөцгийн тос",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1768,9 +1768,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1788,9 +1788,9 @@
   {
     "food_code": "99_0023",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Bayan-Ulgii)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Баян-Өлгий)",
+    "native_name": "Шар тос",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1815,9 +1815,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1835,9 +1835,9 @@
   {
     "food_code": "99_0024",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Bayan-Ulgii)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Баян-Өлгий)",
+    "native_name": "Айраг",
     "province": "Bayan-Ulgii",
     "proximates": {
       "Energy (kcal)": null,
@@ -1862,9 +1862,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1882,9 +1882,9 @@
   {
     "food_code": "99_0025",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Khovd)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Ховд)",
+    "native_name": "Халтар арвай",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -1909,9 +1909,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1929,9 +1929,9 @@
   {
     "food_code": "99_0026",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Khovd)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Ховд)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -1956,9 +1956,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -1976,9 +1976,9 @@
   {
     "food_code": "99_0027",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Khovd)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Ховд)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2003,9 +2003,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2023,9 +2023,9 @@
   {
     "food_code": "99_0028",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Khovd)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Ховд)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2050,9 +2050,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2070,9 +2070,9 @@
   {
     "food_code": "99_0029",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Khovd)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Ховд)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2097,9 +2097,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2117,9 +2117,9 @@
   {
     "food_code": "99_0030",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Khovd)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Ховд)",
+    "native_name": "Бяслаг",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2144,9 +2144,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2164,9 +2164,9 @@
   {
     "food_code": "99_0031",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Khovd)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Ховд)",
+    "native_name": "Ааруул",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2191,9 +2191,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2211,9 +2211,9 @@
   {
     "food_code": "99_0032",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Khovd)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Ховд)",
+    "native_name": "Ямааны сүү",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2238,9 +2238,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2258,9 +2258,9 @@
   {
     "food_code": "99_0033",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Khovd)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Ховд)",
+    "native_name": "Үхрийн сүү",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2285,9 +2285,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2305,9 +2305,9 @@
   {
     "food_code": "99_0034",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Khovd)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Ховд)",
+    "native_name": "Цөцгийн тос",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2332,9 +2332,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2352,9 +2352,9 @@
   {
     "food_code": "99_0035",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Khovd)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Ховд)",
+    "native_name": "Шар тос",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2379,9 +2379,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2399,9 +2399,9 @@
   {
     "food_code": "99_0036",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Khovd)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Ховд)",
+    "native_name": "Айраг",
     "province": "Khovd",
     "proximates": {
       "Energy (kcal)": null,
@@ -2426,9 +2426,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2446,9 +2446,9 @@
   {
     "food_code": "99_0037",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Sukhbaatar)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Сүхбаатар)",
+    "native_name": "Халтар арвай",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2473,9 +2473,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2493,9 +2493,9 @@
   {
     "food_code": "99_0038",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Sukhbaatar)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Сүхбаатар)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2520,9 +2520,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2540,9 +2540,9 @@
   {
     "food_code": "99_0039",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Sukhbaatar)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Сүхбаатар)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2567,9 +2567,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2587,9 +2587,9 @@
   {
     "food_code": "99_0040",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Sukhbaatar)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Сүхбаатар)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2614,9 +2614,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2634,9 +2634,9 @@
   {
     "food_code": "99_0041",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Sukhbaatar)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Сүхбаатар)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2661,9 +2661,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2681,9 +2681,9 @@
   {
     "food_code": "99_0042",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Sukhbaatar)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Сүхбаатар)",
+    "native_name": "Бяслаг",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2708,9 +2708,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2728,9 +2728,9 @@
   {
     "food_code": "99_0043",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Sukhbaatar)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Сүхбаатар)",
+    "native_name": "Ааруул",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2755,9 +2755,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2775,9 +2775,9 @@
   {
     "food_code": "99_0044",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Sukhbaatar)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Сүхбаатар)",
+    "native_name": "Ямааны сүү",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2802,9 +2802,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2822,9 +2822,9 @@
   {
     "food_code": "99_0045",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Sukhbaatar)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Сүхбаатар)",
+    "native_name": "Үхрийн сүү",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2849,9 +2849,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2869,9 +2869,9 @@
   {
     "food_code": "99_0046",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Sukhbaatar)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Сүхбаатар)",
+    "native_name": "Цөцгийн тос",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2896,9 +2896,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2916,9 +2916,9 @@
   {
     "food_code": "99_0047",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Sukhbaatar)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Сүхбаатар)",
+    "native_name": "Шар тос",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2943,9 +2943,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -2963,9 +2963,9 @@
   {
     "food_code": "99_0048",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Sukhbaatar)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Сүхбаатар)",
+    "native_name": "Айраг",
     "province": "Sukhbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -2990,9 +2990,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3010,9 +3010,9 @@
   {
     "food_code": "99_0049",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Dornogovi)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Дорноговь)",
+    "native_name": "Халтар арвай",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3037,9 +3037,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3057,9 +3057,9 @@
   {
     "food_code": "99_0050",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Dornogovi)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Дорноговь)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3084,9 +3084,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3104,9 +3104,9 @@
   {
     "food_code": "99_0051",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Dornogovi)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Дорноговь)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3131,9 +3131,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3151,9 +3151,9 @@
   {
     "food_code": "99_0052",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Dornogovi)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Дорноговь)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3178,9 +3178,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3198,9 +3198,9 @@
   {
     "food_code": "99_0053",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Dornogovi)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Дорноговь)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3225,9 +3225,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3245,9 +3245,9 @@
   {
     "food_code": "99_0054",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Dornogovi)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Дорноговь)",
+    "native_name": "Бяслаг",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3272,9 +3272,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3292,9 +3292,9 @@
   {
     "food_code": "99_0055",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Dornogovi)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Дорноговь)",
+    "native_name": "Ааруул",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3319,9 +3319,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3339,9 +3339,9 @@
   {
     "food_code": "99_0056",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Dornogovi)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Дорноговь)",
+    "native_name": "Ямааны сүү",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3366,9 +3366,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3386,9 +3386,9 @@
   {
     "food_code": "99_0057",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Dornogovi)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Дорноговь)",
+    "native_name": "Үхрийн сүү",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3413,9 +3413,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3433,9 +3433,9 @@
   {
     "food_code": "99_0058",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Dornogovi)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Дорноговь)",
+    "native_name": "Цөцгийн тос",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3460,9 +3460,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3480,9 +3480,9 @@
   {
     "food_code": "99_0059",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Dornogovi)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Дорноговь)",
+    "native_name": "Шар тос",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3507,9 +3507,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3527,9 +3527,9 @@
   {
     "food_code": "99_0060",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Dornogovi)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Дорноговь)",
+    "native_name": "Айраг",
     "province": "Dornogovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -3554,9 +3554,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3574,9 +3574,9 @@
   {
     "food_code": "99_0061",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Govi-Altai)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Говь-Алтай)",
+    "native_name": "Халтар арвай",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3601,9 +3601,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3621,9 +3621,9 @@
   {
     "food_code": "99_0062",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Govi-Altai)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Говь-Алтай)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3648,9 +3648,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3668,9 +3668,9 @@
   {
     "food_code": "99_0063",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Govi-Altai)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Говь-Алтай)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3695,9 +3695,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3715,9 +3715,9 @@
   {
     "food_code": "99_0064",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Govi-Altai)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Говь-Алтай)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3742,9 +3742,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3762,9 +3762,9 @@
   {
     "food_code": "99_0065",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Govi-Altai)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Говь-Алтай)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3789,9 +3789,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3809,9 +3809,9 @@
   {
     "food_code": "99_0066",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Govi-Altai)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Говь-Алтай)",
+    "native_name": "Бяслаг",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3836,9 +3836,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3856,9 +3856,9 @@
   {
     "food_code": "99_0067",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Govi-Altai)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Говь-Алтай)",
+    "native_name": "Ааруул",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3883,9 +3883,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3903,9 +3903,9 @@
   {
     "food_code": "99_0068",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Govi-Altai)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Говь-Алтай)",
+    "native_name": "Ямааны сүү",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3930,9 +3930,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3950,9 +3950,9 @@
   {
     "food_code": "99_0069",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Govi-Altai)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Говь-Алтай)",
+    "native_name": "Үхрийн сүү",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -3977,9 +3977,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -3997,9 +3997,9 @@
   {
     "food_code": "99_0070",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Govi-Altai)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Говь-Алтай)",
+    "native_name": "Цөцгийн тос",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -4024,9 +4024,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4044,9 +4044,9 @@
   {
     "food_code": "99_0071",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Govi-Altai)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Говь-Алтай)",
+    "native_name": "Шар тос",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -4071,9 +4071,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4091,9 +4091,9 @@
   {
     "food_code": "99_0072",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Govi-Altai)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Говь-Алтай)",
+    "native_name": "Айраг",
     "province": "Govi-Altai",
     "proximates": {
       "Energy (kcal)": null,
@@ -4118,9 +4118,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4138,9 +4138,9 @@
   {
     "food_code": "99_0073",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Bayankhongor)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Баянхонгор)",
+    "native_name": "Халтар арвай",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4165,9 +4165,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4185,9 +4185,9 @@
   {
     "food_code": "99_0074",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Bayankhongor)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Баянхонгор)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4212,9 +4212,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4232,9 +4232,9 @@
   {
     "food_code": "99_0075",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Bayankhongor)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Баянхонгор)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4259,9 +4259,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4279,9 +4279,9 @@
   {
     "food_code": "99_0076",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Bayankhongor)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Баянхонгор)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4306,9 +4306,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4326,9 +4326,9 @@
   {
     "food_code": "99_0077",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Bayankhongor)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Баянхонгор)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4353,9 +4353,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4373,9 +4373,9 @@
   {
     "food_code": "99_0078",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Bayankhongor)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Баянхонгор)",
+    "native_name": "Бяслаг",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4400,9 +4400,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4420,9 +4420,9 @@
   {
     "food_code": "99_0079",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Bayankhongor)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Баянхонгор)",
+    "native_name": "Ааруул",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4447,9 +4447,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4467,9 +4467,9 @@
   {
     "food_code": "99_0080",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Bayankhongor)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Баянхонгор)",
+    "native_name": "Ямааны сүү",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4494,9 +4494,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4514,9 +4514,9 @@
   {
     "food_code": "99_0081",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Bayankhongor)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Баянхонгор)",
+    "native_name": "Үхрийн сүү",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4541,9 +4541,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4561,9 +4561,9 @@
   {
     "food_code": "99_0082",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Bayankhongor)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Баянхонгор)",
+    "native_name": "Цөцгийн тос",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4588,9 +4588,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4608,9 +4608,9 @@
   {
     "food_code": "99_0083",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Bayankhongor)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Баянхонгор)",
+    "native_name": "Шар тос",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4635,9 +4635,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4655,9 +4655,9 @@
   {
     "food_code": "99_0084",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Bayankhongor)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Баянхонгор)",
+    "native_name": "Айраг",
     "province": "Bayankhongor",
     "proximates": {
       "Energy (kcal)": null,
@@ -4682,9 +4682,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4702,9 +4702,9 @@
   {
     "food_code": "99_0085",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Umnugovi)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Өмнөговь)",
+    "native_name": "Халтар арвай",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -4729,9 +4729,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4749,9 +4749,9 @@
   {
     "food_code": "99_0086",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Umnugovi)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Өмнөговь)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -4776,9 +4776,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4796,9 +4796,9 @@
   {
     "food_code": "99_0087",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Umnugovi)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Өмнөговь)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -4823,9 +4823,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4843,9 +4843,9 @@
   {
     "food_code": "99_0088",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Umnugovi)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Өмнөговь)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -4870,9 +4870,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4890,9 +4890,9 @@
   {
     "food_code": "99_0089",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Umnugovi)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Өмнөговь)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -4917,9 +4917,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4937,9 +4937,9 @@
   {
     "food_code": "99_0090",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Umnugovi)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Өмнөговь)",
+    "native_name": "Бяслаг",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -4964,9 +4964,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -4984,9 +4984,9 @@
   {
     "food_code": "99_0091",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Umnugovi)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Өмнөговь)",
+    "native_name": "Ааруул",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -5011,9 +5011,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5031,9 +5031,9 @@
   {
     "food_code": "99_0092",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Umnugovi)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Өмнөговь)",
+    "native_name": "Ямааны сүү",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -5058,9 +5058,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5078,9 +5078,9 @@
   {
     "food_code": "99_0093",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Umnugovi)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Өмнөговь)",
+    "native_name": "Үхрийн сүү",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -5105,9 +5105,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5125,9 +5125,9 @@
   {
     "food_code": "99_0094",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Umnugovi)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Өмнөговь)",
+    "native_name": "Цөцгийн тос",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -5152,9 +5152,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5172,9 +5172,9 @@
   {
     "food_code": "99_0095",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Umnugovi)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Өмнөговь)",
+    "native_name": "Шар тос",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -5199,9 +5199,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5219,9 +5219,9 @@
   {
     "food_code": "99_0096",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Umnugovi)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Өмнөговь)",
+    "native_name": "Айраг",
     "province": "Umnugovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -5246,9 +5246,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5266,9 +5266,9 @@
   {
     "food_code": "99_0097",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Bulgan)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Булган)",
+    "native_name": "Халтар арвай",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5293,9 +5293,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5313,9 +5313,9 @@
   {
     "food_code": "99_0098",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Bulgan)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Булган)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5340,9 +5340,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5360,9 +5360,9 @@
   {
     "food_code": "99_0099",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Bulgan)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Булган)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5387,9 +5387,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5407,9 +5407,9 @@
   {
     "food_code": "99_0100",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Bulgan)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Булган)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5434,9 +5434,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5454,9 +5454,9 @@
   {
     "food_code": "99_0101",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Bulgan)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Булган)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5481,9 +5481,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5501,9 +5501,9 @@
   {
     "food_code": "99_0102",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Bulgan)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Булган)",
+    "native_name": "Бяслаг",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5528,9 +5528,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5548,9 +5548,9 @@
   {
     "food_code": "99_0103",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Bulgan)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Булган)",
+    "native_name": "Ааруул",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5575,9 +5575,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5595,9 +5595,9 @@
   {
     "food_code": "99_0104",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Bulgan)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Булган)",
+    "native_name": "Ямааны сүү",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5622,9 +5622,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5642,9 +5642,9 @@
   {
     "food_code": "99_0105",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Bulgan)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Булган)",
+    "native_name": "Үхрийн сүү",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5669,9 +5669,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5689,9 +5689,9 @@
   {
     "food_code": "99_0106",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Bulgan)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Булган)",
+    "native_name": "Цөцгийн тос",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5716,9 +5716,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5736,9 +5736,9 @@
   {
     "food_code": "99_0107",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Bulgan)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Булган)",
+    "native_name": "Шар тос",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5763,9 +5763,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5783,9 +5783,9 @@
   {
     "food_code": "99_0108",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Bulgan)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Булган)",
+    "native_name": "Айраг",
     "province": "Bulgan",
     "proximates": {
       "Energy (kcal)": null,
@@ -5810,9 +5810,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5830,9 +5830,9 @@
   {
     "food_code": "99_0109",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Selenge)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Сэлэнгэ)",
+    "native_name": "Халтар арвай",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -5857,9 +5857,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5877,9 +5877,9 @@
   {
     "food_code": "99_0110",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Selenge)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Сэлэнгэ)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -5904,9 +5904,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5924,9 +5924,9 @@
   {
     "food_code": "99_0111",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Selenge)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Сэлэнгэ)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -5951,9 +5951,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -5971,9 +5971,9 @@
   {
     "food_code": "99_0112",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Selenge)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Сэлэнгэ)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -5998,9 +5998,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6018,9 +6018,9 @@
   {
     "food_code": "99_0113",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Selenge)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Сэлэнгэ)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6045,9 +6045,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6065,9 +6065,9 @@
   {
     "food_code": "99_0114",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Selenge)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Сэлэнгэ)",
+    "native_name": "Бяслаг",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6092,9 +6092,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6112,9 +6112,9 @@
   {
     "food_code": "99_0115",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Selenge)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Сэлэнгэ)",
+    "native_name": "Ааруул",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6139,9 +6139,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6159,9 +6159,9 @@
   {
     "food_code": "99_0116",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Selenge)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Сэлэнгэ)",
+    "native_name": "Ямааны сүү",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6186,9 +6186,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6206,9 +6206,9 @@
   {
     "food_code": "99_0117",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Selenge)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Сэлэнгэ)",
+    "native_name": "Үхрийн сүү",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6233,9 +6233,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6253,9 +6253,9 @@
   {
     "food_code": "99_0118",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Selenge)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Сэлэнгэ)",
+    "native_name": "Цөцгийн тос",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6280,9 +6280,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6300,9 +6300,9 @@
   {
     "food_code": "99_0119",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Selenge)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Сэлэнгэ)",
+    "native_name": "Шар тос",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6327,9 +6327,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6347,9 +6347,9 @@
   {
     "food_code": "99_0120",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Selenge)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Сэлэнгэ)",
+    "native_name": "Айраг",
     "province": "Selenge",
     "proximates": {
       "Energy (kcal)": null,
@@ -6374,9 +6374,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6394,9 +6394,9 @@
   {
     "food_code": "99_0121",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Zavkhan)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Завхан)",
+    "native_name": "Халтар арвай",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6421,9 +6421,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6441,9 +6441,9 @@
   {
     "food_code": "99_0122",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Zavkhan)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Завхан)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6468,9 +6468,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6488,9 +6488,9 @@
   {
     "food_code": "99_0123",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Zavkhan)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Завхан)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6515,9 +6515,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6535,9 +6535,9 @@
   {
     "food_code": "99_0124",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Zavkhan)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Завхан)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6562,9 +6562,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6582,9 +6582,9 @@
   {
     "food_code": "99_0125",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Zavkhan)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Завхан)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6609,9 +6609,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6629,9 +6629,9 @@
   {
     "food_code": "99_0126",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Zavkhan)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Завхан)",
+    "native_name": "Бяслаг",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6656,9 +6656,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6676,9 +6676,9 @@
   {
     "food_code": "99_0127",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Zavkhan)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Завхан)",
+    "native_name": "Ааруул",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6703,9 +6703,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6723,9 +6723,9 @@
   {
     "food_code": "99_0128",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Zavkhan)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Завхан)",
+    "native_name": "Ямааны сүү",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6750,9 +6750,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6770,9 +6770,9 @@
   {
     "food_code": "99_0129",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Zavkhan)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Завхан)",
+    "native_name": "Үхрийн сүү",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6797,9 +6797,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6817,9 +6817,9 @@
   {
     "food_code": "99_0130",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Zavkhan)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Завхан)",
+    "native_name": "Цөцгийн тос",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6844,9 +6844,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6864,9 +6864,9 @@
   {
     "food_code": "99_0131",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Zavkhan)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Завхан)",
+    "native_name": "Шар тос",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6891,9 +6891,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6911,9 +6911,9 @@
   {
     "food_code": "99_0132",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Zavkhan)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Завхан)",
+    "native_name": "Айраг",
     "province": "Zavkhan",
     "proximates": {
       "Energy (kcal)": null,
@@ -6938,9 +6938,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -6958,9 +6958,9 @@
   {
     "food_code": "99_0133",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Khentii)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Хэнтий)",
+    "native_name": "Халтар арвай",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -6985,9 +6985,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7005,9 +7005,9 @@
   {
     "food_code": "99_0134",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Khentii)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Хэнтий)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7032,9 +7032,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7052,9 +7052,9 @@
   {
     "food_code": "99_0135",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Khentii)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Хэнтий)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7079,9 +7079,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7099,9 +7099,9 @@
   {
     "food_code": "99_0136",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Khentii)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Хэнтий)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7126,9 +7126,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7146,9 +7146,9 @@
   {
     "food_code": "99_0137",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Khentii)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Хэнтий)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7173,9 +7173,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7193,9 +7193,9 @@
   {
     "food_code": "99_0138",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Khentii)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Хэнтий)",
+    "native_name": "Бяслаг",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7220,9 +7220,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7240,9 +7240,9 @@
   {
     "food_code": "99_0139",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Khentii)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Хэнтий)",
+    "native_name": "Ааруул",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7267,9 +7267,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7287,9 +7287,9 @@
   {
     "food_code": "99_0140",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Khentii)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Хэнтий)",
+    "native_name": "Ямааны сүү",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7314,9 +7314,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7334,9 +7334,9 @@
   {
     "food_code": "99_0141",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Khentii)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Хэнтий)",
+    "native_name": "Үхрийн сүү",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7361,9 +7361,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7381,9 +7381,9 @@
   {
     "food_code": "99_0142",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Khentii)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Хэнтий)",
+    "native_name": "Цөцгийн тос",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7408,9 +7408,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7428,9 +7428,9 @@
   {
     "food_code": "99_0143",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Khentii)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Хэнтий)",
+    "native_name": "Шар тос",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7455,9 +7455,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7475,9 +7475,9 @@
   {
     "food_code": "99_0144",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Khentii)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Хэнтий)",
+    "native_name": "Айраг",
     "province": "Khentii",
     "proximates": {
       "Energy (kcal)": null,
@@ -7502,9 +7502,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7522,9 +7522,9 @@
   {
     "food_code": "99_0145",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Tuv)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Төв)",
+    "native_name": "Халтар арвай",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7549,9 +7549,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7569,9 +7569,9 @@
   {
     "food_code": "99_0146",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Tuv)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Төв)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7596,9 +7596,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7616,9 +7616,9 @@
   {
     "food_code": "99_0147",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Tuv)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Төв)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7643,9 +7643,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7663,9 +7663,9 @@
   {
     "food_code": "99_0148",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Tuv)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Төв)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7690,9 +7690,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7710,9 +7710,9 @@
   {
     "food_code": "99_0149",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Tuv)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Төв)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7737,9 +7737,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7757,9 +7757,9 @@
   {
     "food_code": "99_0150",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Tuv)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Төв)",
+    "native_name": "Бяслаг",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7784,9 +7784,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7804,9 +7804,9 @@
   {
     "food_code": "99_0151",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Tuv)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Төв)",
+    "native_name": "Ааруул",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7831,9 +7831,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7851,9 +7851,9 @@
   {
     "food_code": "99_0152",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Tuv)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Төв)",
+    "native_name": "Ямааны сүү",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7878,9 +7878,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7898,9 +7898,9 @@
   {
     "food_code": "99_0153",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Tuv)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Төв)",
+    "native_name": "Үхрийн сүү",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7925,9 +7925,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7945,9 +7945,9 @@
   {
     "food_code": "99_0154",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Tuv)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Төв)",
+    "native_name": "Цөцгийн тос",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -7972,9 +7972,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -7992,9 +7992,9 @@
   {
     "food_code": "99_0155",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Tuv)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Төв)",
+    "native_name": "Шар тос",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -8019,9 +8019,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8039,9 +8039,9 @@
   {
     "food_code": "99_0156",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Tuv)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Төв)",
+    "native_name": "Айраг",
     "province": "Tuv",
     "proximates": {
       "Energy (kcal)": null,
@@ -8066,9 +8066,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8086,9 +8086,9 @@
   {
     "food_code": "99_0157",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Arkhangai)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Архангай)",
+    "native_name": "Халтар арвай",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8113,9 +8113,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8133,9 +8133,9 @@
   {
     "food_code": "99_0158",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Arkhangai)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Архангай)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8160,9 +8160,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8180,9 +8180,9 @@
   {
     "food_code": "99_0159",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Arkhangai)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Архангай)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8207,9 +8207,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8227,9 +8227,9 @@
   {
     "food_code": "99_0160",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Arkhangai)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Архангай)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8254,9 +8254,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8274,9 +8274,9 @@
   {
     "food_code": "99_0161",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Arkhangai)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Архангай)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8301,9 +8301,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8321,9 +8321,9 @@
   {
     "food_code": "99_0162",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Arkhangai)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Архангай)",
+    "native_name": "Бяслаг",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8348,9 +8348,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8368,9 +8368,9 @@
   {
     "food_code": "99_0163",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Arkhangai)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Архангай)",
+    "native_name": "Ааруул",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8395,9 +8395,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8415,9 +8415,9 @@
   {
     "food_code": "99_0164",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Arkhangai)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Архангай)",
+    "native_name": "Ямааны сүү",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8442,9 +8442,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8462,9 +8462,9 @@
   {
     "food_code": "99_0165",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Arkhangai)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Архангай)",
+    "native_name": "Үхрийн сүү",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8489,9 +8489,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8509,9 +8509,9 @@
   {
     "food_code": "99_0166",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Arkhangai)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Архангай)",
+    "native_name": "Цөцгийн тос",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8536,9 +8536,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8556,9 +8556,9 @@
   {
     "food_code": "99_0167",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Arkhangai)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Архангай)",
+    "native_name": "Шар тос",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8583,9 +8583,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8603,9 +8603,9 @@
   {
     "food_code": "99_0168",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Arkhangai)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Архангай)",
+    "native_name": "Айраг",
     "province": "Arkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -8630,9 +8630,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8650,9 +8650,9 @@
   {
     "food_code": "99_0169",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Orkhon)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Орхон)",
+    "native_name": "Халтар арвай",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -8677,9 +8677,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8697,9 +8697,9 @@
   {
     "food_code": "99_0170",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Orkhon)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Орхон)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -8724,9 +8724,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8744,9 +8744,9 @@
   {
     "food_code": "99_0171",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Orkhon)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Орхон)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -8771,9 +8771,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8791,9 +8791,9 @@
   {
     "food_code": "99_0172",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Orkhon)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Орхон)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -8818,9 +8818,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8838,9 +8838,9 @@
   {
     "food_code": "99_0173",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Orkhon)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Орхон)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -8865,9 +8865,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8885,9 +8885,9 @@
   {
     "food_code": "99_0174",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Orkhon)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Орхон)",
+    "native_name": "Бяслаг",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -8912,9 +8912,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8932,9 +8932,9 @@
   {
     "food_code": "99_0175",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Orkhon)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Орхон)",
+    "native_name": "Ааруул",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -8959,9 +8959,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -8979,9 +8979,9 @@
   {
     "food_code": "99_0176",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Orkhon)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Орхон)",
+    "native_name": "Ямааны сүү",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -9006,9 +9006,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9026,9 +9026,9 @@
   {
     "food_code": "99_0177",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Orkhon)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Орхон)",
+    "native_name": "Үхрийн сүү",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -9053,9 +9053,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9073,9 +9073,9 @@
   {
     "food_code": "99_0178",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Orkhon)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Орхон)",
+    "native_name": "Цөцгийн тос",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -9100,9 +9100,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9120,9 +9120,9 @@
   {
     "food_code": "99_0179",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Orkhon)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Орхон)",
+    "native_name": "Шар тос",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -9147,9 +9147,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9167,9 +9167,9 @@
   {
     "food_code": "99_0180",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Orkhon)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Орхон)",
+    "native_name": "Айраг",
     "province": "Orkhon",
     "proximates": {
       "Energy (kcal)": null,
@@ -9194,9 +9194,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9214,9 +9214,9 @@
   {
     "food_code": "99_0181",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Dundgovi)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Дундговь)",
+    "native_name": "Халтар арвай",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9241,9 +9241,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9261,9 +9261,9 @@
   {
     "food_code": "99_0182",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Dundgovi)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Дундговь)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9288,9 +9288,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9308,9 +9308,9 @@
   {
     "food_code": "99_0183",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Dundgovi)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Дундговь)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9335,9 +9335,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9355,9 +9355,9 @@
   {
     "food_code": "99_0184",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Dundgovi)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Дундговь)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9382,9 +9382,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9402,9 +9402,9 @@
   {
     "food_code": "99_0185",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Dundgovi)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Дундговь)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9429,9 +9429,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9449,9 +9449,9 @@
   {
     "food_code": "99_0186",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Dundgovi)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Дундговь)",
+    "native_name": "Бяслаг",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9476,9 +9476,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9496,9 +9496,9 @@
   {
     "food_code": "99_0187",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Dundgovi)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Дундговь)",
+    "native_name": "Ааруул",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9523,9 +9523,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9543,9 +9543,9 @@
   {
     "food_code": "99_0188",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Dundgovi)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Дундговь)",
+    "native_name": "Ямааны сүү",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9570,9 +9570,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9590,9 +9590,9 @@
   {
     "food_code": "99_0189",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Dundgovi)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Дундговь)",
+    "native_name": "Үхрийн сүү",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9617,9 +9617,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9637,9 +9637,9 @@
   {
     "food_code": "99_0190",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Dundgovi)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Дундговь)",
+    "native_name": "Цөцгийн тос",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9664,9 +9664,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9684,9 +9684,9 @@
   {
     "food_code": "99_0191",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Dundgovi)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Дундговь)",
+    "native_name": "Шар тос",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9711,9 +9711,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9731,9 +9731,9 @@
   {
     "food_code": "99_0192",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Dundgovi)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Дундговь)",
+    "native_name": "Айраг",
     "province": "Dundgovi",
     "proximates": {
       "Energy (kcal)": null,
@@ -9758,9 +9758,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9778,9 +9778,9 @@
   {
     "food_code": "99_0193",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Uvurkhangai)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Өвөрхангай)",
+    "native_name": "Халтар арвай",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -9805,9 +9805,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9825,9 +9825,9 @@
   {
     "food_code": "99_0194",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Uvurkhangai)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Өвөрхангай)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -9852,9 +9852,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9872,9 +9872,9 @@
   {
     "food_code": "99_0195",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Uvurkhangai)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Өвөрхангай)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -9899,9 +9899,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9919,9 +9919,9 @@
   {
     "food_code": "99_0196",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Uvurkhangai)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Өвөрхангай)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -9946,9 +9946,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -9966,9 +9966,9 @@
   {
     "food_code": "99_0197",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Uvurkhangai)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Өвөрхангай)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -9993,9 +9993,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10013,9 +10013,9 @@
   {
     "food_code": "99_0198",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Uvurkhangai)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Өвөрхангай)",
+    "native_name": "Бяслаг",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -10040,9 +10040,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10060,9 +10060,9 @@
   {
     "food_code": "99_0199",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Uvurkhangai)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Өвөрхангай)",
+    "native_name": "Ааруул",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -10087,9 +10087,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10107,9 +10107,9 @@
   {
     "food_code": "99_0200",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Uvurkhangai)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Өвөрхангай)",
+    "native_name": "Ямааны сүү",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -10134,9 +10134,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10154,9 +10154,9 @@
   {
     "food_code": "99_0201",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Uvurkhangai)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Өвөрхангай)",
+    "native_name": "Үхрийн сүү",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -10181,9 +10181,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10201,9 +10201,9 @@
   {
     "food_code": "99_0202",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Uvurkhangai)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Өвөрхангай)",
+    "native_name": "Цөцгийн тос",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -10228,9 +10228,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10248,9 +10248,9 @@
   {
     "food_code": "99_0203",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Uvurkhangai)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Өвөрхангай)",
+    "native_name": "Шар тос",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -10275,9 +10275,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10295,9 +10295,9 @@
   {
     "food_code": "99_0204",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Uvurkhangai)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Өвөрхангай)",
+    "native_name": "Айраг",
     "province": "Uvurkhangai",
     "proximates": {
       "Energy (kcal)": null,
@@ -10322,9 +10322,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10342,9 +10342,9 @@
   {
     "food_code": "99_0205",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Govi-Sumber)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Говьсүмбэр)",
+    "native_name": "Халтар арвай",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10369,9 +10369,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10389,9 +10389,9 @@
   {
     "food_code": "99_0206",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Govi-Sumber)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Говьсүмбэр)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10416,9 +10416,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10436,9 +10436,9 @@
   {
     "food_code": "99_0207",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Govi-Sumber)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Говьсүмбэр)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10463,9 +10463,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10483,9 +10483,9 @@
   {
     "food_code": "99_0208",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Govi-Sumber)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Говьсүмбэр)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10510,9 +10510,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10530,9 +10530,9 @@
   {
     "food_code": "99_0209",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Govi-Sumber)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Говьсүмбэр)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10557,9 +10557,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10577,9 +10577,9 @@
   {
     "food_code": "99_0210",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Govi-Sumber)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Говьсүмбэр)",
+    "native_name": "Бяслаг",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10604,9 +10604,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10624,9 +10624,9 @@
   {
     "food_code": "99_0211",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Govi-Sumber)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Говьсүмбэр)",
+    "native_name": "Ааруул",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10651,9 +10651,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10671,9 +10671,9 @@
   {
     "food_code": "99_0212",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Govi-Sumber)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Говьсүмбэр)",
+    "native_name": "Ямааны сүү",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10698,9 +10698,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10718,9 +10718,9 @@
   {
     "food_code": "99_0213",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Govi-Sumber)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Говьсүмбэр)",
+    "native_name": "Үхрийн сүү",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10745,9 +10745,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10765,9 +10765,9 @@
   {
     "food_code": "99_0214",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Govi-Sumber)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Говьсүмбэр)",
+    "native_name": "Цөцгийн тос",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10792,9 +10792,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10812,9 +10812,9 @@
   {
     "food_code": "99_0215",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Govi-Sumber)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Говьсүмбэр)",
+    "native_name": "Шар тос",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10839,9 +10839,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10859,9 +10859,9 @@
   {
     "food_code": "99_0216",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Govi-Sumber)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Говьсүмбэр)",
+    "native_name": "Айраг",
     "province": "Govi-Sumber",
     "proximates": {
       "Energy (kcal)": null,
@@ -10886,9 +10886,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10906,9 +10906,9 @@
   {
     "food_code": "99_0217",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Ulaanbaatar)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Улаанбаатар)",
+    "native_name": "Халтар арвай",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -10933,9 +10933,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -10953,9 +10953,9 @@
   {
     "food_code": "99_0218",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Ulaanbaatar)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Улаанбаатар)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -10980,9 +10980,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11000,9 +11000,9 @@
   {
     "food_code": "99_0219",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Ulaanbaatar)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Улаанбаатар)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11027,9 +11027,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11047,9 +11047,9 @@
   {
     "food_code": "99_0220",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Ulaanbaatar)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Улаанбаатар)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11074,9 +11074,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11094,9 +11094,9 @@
   {
     "food_code": "99_0221",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Ulaanbaatar)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Улаанбаатар)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11121,9 +11121,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11141,9 +11141,9 @@
   {
     "food_code": "99_0222",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Ulaanbaatar)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Улаанбаатар)",
+    "native_name": "Бяслаг",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11168,9 +11168,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11188,9 +11188,9 @@
   {
     "food_code": "99_0223",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Ulaanbaatar)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Улаанбаатар)",
+    "native_name": "Ааруул",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11215,9 +11215,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11235,9 +11235,9 @@
   {
     "food_code": "99_0224",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Ulaanbaatar)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Улаанбаатар)",
+    "native_name": "Ямааны сүү",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11262,9 +11262,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11282,9 +11282,9 @@
   {
     "food_code": "99_0225",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Ulaanbaatar)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Улаанбаатар)",
+    "native_name": "Үхрийн сүү",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11309,9 +11309,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11329,9 +11329,9 @@
   {
     "food_code": "99_0226",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Ulaanbaatar)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Улаанбаатар)",
+    "native_name": "Цөцгийн тос",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11356,9 +11356,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11376,9 +11376,9 @@
   {
     "food_code": "99_0227",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Ulaanbaatar)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Улаанбаатар)",
+    "native_name": "Шар тос",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11403,9 +11403,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11423,9 +11423,9 @@
   {
     "food_code": "99_0228",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Ulaanbaatar)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Улаанбаатар)",
+    "native_name": "Айраг",
     "province": "Ulaanbaatar",
     "proximates": {
       "Energy (kcal)": null,
@@ -11450,9 +11450,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11470,9 +11470,9 @@
   {
     "food_code": "99_0229",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Uvs)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Увс)",
+    "native_name": "Халтар арвай",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11497,9 +11497,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11517,9 +11517,9 @@
   {
     "food_code": "99_0230",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Uvs)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Увс)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11544,9 +11544,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11564,9 +11564,9 @@
   {
     "food_code": "99_0231",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Uvs)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Увс)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11591,9 +11591,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11611,9 +11611,9 @@
   {
     "food_code": "99_0232",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Uvs)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Увс)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11638,9 +11638,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11658,9 +11658,9 @@
   {
     "food_code": "99_0233",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Uvs)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Увс)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11685,9 +11685,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11705,9 +11705,9 @@
   {
     "food_code": "99_0234",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Uvs)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Увс)",
+    "native_name": "Бяслаг",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11732,9 +11732,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11752,9 +11752,9 @@
   {
     "food_code": "99_0235",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Uvs)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Увс)",
+    "native_name": "Ааруул",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11779,9 +11779,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11799,9 +11799,9 @@
   {
     "food_code": "99_0236",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Uvs)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Увс)",
+    "native_name": "Ямааны сүү",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11826,9 +11826,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11846,9 +11846,9 @@
   {
     "food_code": "99_0237",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Uvs)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Увс)",
+    "native_name": "Үхрийн сүү",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11873,9 +11873,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11893,9 +11893,9 @@
   {
     "food_code": "99_0238",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Uvs)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Увс)",
+    "native_name": "Цөцгийн тос",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11920,9 +11920,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11940,9 +11940,9 @@
   {
     "food_code": "99_0239",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Uvs)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Увс)",
+    "native_name": "Шар тос",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -11967,9 +11967,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -11987,9 +11987,9 @@
   {
     "food_code": "99_0240",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Uvs)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Увс)",
+    "native_name": "Айраг",
     "province": "Uvs",
     "proximates": {
       "Energy (kcal)": null,
@@ -12014,9 +12014,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12034,9 +12034,9 @@
   {
     "food_code": "99_0241",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Pearled barley (sample, Darkhan-Uul)",
+    "food_name": "Pearled barley",
     "scientific_name": null,
-    "native_name": "Халтар арвай (жишиг, Дархан-Уул)",
+    "native_name": "Халтар арвай",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12061,9 +12061,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12081,9 +12081,9 @@
   {
     "food_code": "99_0242",
     "food_group": "Cereals and Cereal products",
-    "food_name": "Whole grain flour (sample, Darkhan-Uul)",
+    "food_name": "Whole grain flour",
     "scientific_name": null,
-    "native_name": "Бүхэл үрийн гурил (жишиг, Дархан-Уул)",
+    "native_name": "Бүхэл үрийн гурил",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12108,9 +12108,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12128,9 +12128,9 @@
   {
     "food_code": "99_0243",
     "food_group": "Meat and Meat products",
-    "food_name": "Beef, boneless (sample, Darkhan-Uul)",
+    "food_name": "Beef, boneless",
     "scientific_name": null,
-    "native_name": "Үхрийн ясгүй мах (жишиг, Дархан-Уул)",
+    "native_name": "Үхрийн ясгүй мах",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12155,9 +12155,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12175,9 +12175,9 @@
   {
     "food_code": "99_0244",
     "food_group": "Meat and Meat products",
-    "food_name": "Mutton, boneless (sample, Darkhan-Uul)",
+    "food_name": "Mutton, boneless",
     "scientific_name": null,
-    "native_name": "Хонины ясгүй мах (жишиг, Дархан-Уул)",
+    "native_name": "Хонины ясгүй мах",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12202,9 +12202,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12222,9 +12222,9 @@
   {
     "food_code": "99_0245",
     "food_group": "Fish and Fish products",
-    "food_name": "White fish, frozen (sample, Darkhan-Uul)",
+    "food_name": "White fish, frozen",
     "scientific_name": null,
-    "native_name": "Цагаан загас, хөлдөөсөн (жишиг, Дархан-Уул)",
+    "native_name": "Цагаан загас, хөлдөөсөн",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12249,9 +12249,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12269,9 +12269,9 @@
   {
     "food_code": "99_0246",
     "food_group": "Milk and Milk products",
-    "food_name": "Cheese (sample, Darkhan-Uul)",
+    "food_name": "Cheese",
     "scientific_name": null,
-    "native_name": "Бяслаг (жишиг, Дархан-Уул)",
+    "native_name": "Бяслаг",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12296,9 +12296,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12316,9 +12316,9 @@
   {
     "food_code": "99_0247",
     "food_group": "Milk and Milk products",
-    "food_name": "Aaruul (sample, Darkhan-Uul)",
+    "food_name": "Aaruul",
     "scientific_name": null,
-    "native_name": "Ааруул (жишиг, Дархан-Уул)",
+    "native_name": "Ааруул",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12343,9 +12343,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12363,9 +12363,9 @@
   {
     "food_code": "99_0248",
     "food_group": "Milk and Milk products",
-    "food_name": "Goat milk (sample, Darkhan-Uul)",
+    "food_name": "Goat milk",
     "scientific_name": null,
-    "native_name": "Ямааны сүү (жишиг, Дархан-Уул)",
+    "native_name": "Ямааны сүү",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12390,9 +12390,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12410,9 +12410,9 @@
   {
     "food_code": "99_0249",
     "food_group": "Milk and Milk products",
-    "food_name": "Cow milk (sample, Darkhan-Uul)",
+    "food_name": "Cow milk",
     "scientific_name": null,
-    "native_name": "Үхрийн сүү (жишиг, Дархан-Уул)",
+    "native_name": "Үхрийн сүү",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12437,9 +12437,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12457,9 +12457,9 @@
   {
     "food_code": "99_0250",
     "food_group": "Oils and Fats",
-    "food_name": "Butter (sample, Darkhan-Uul)",
+    "food_name": "Butter",
     "scientific_name": null,
-    "native_name": "Цөцгийн тос (жишиг, Дархан-Уул)",
+    "native_name": "Цөцгийн тос",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12484,9 +12484,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12504,9 +12504,9 @@
   {
     "food_code": "99_0251",
     "food_group": "Oils and Fats",
-    "food_name": "Yellow butter (sample, Darkhan-Uul)",
+    "food_name": "Yellow butter",
     "scientific_name": null,
-    "native_name": "Шар тос (жишиг, Дархан-Уул)",
+    "native_name": "Шар тос",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12531,9 +12531,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {
@@ -12551,9 +12551,9 @@
   {
     "food_code": "99_0252",
     "food_group": "Milk and Milk products",
-    "food_name": "Airag (sample, Darkhan-Uul)",
+    "food_name": "Airag",
     "scientific_name": null,
-    "native_name": "Айраг (жишиг, Дархан-Уул)",
+    "native_name": "Айраг",
     "province": "Darkhan-Uul",
     "proximates": {
       "Energy (kcal)": null,
@@ -12578,9 +12578,9 @@
       "Refuse (%)": null
     },
     "collection_information": {
-      "Collection area": "Sample data",
+      "Collection area": null,
       "Collection date": null,
-      "Basis of sample selection": "Sample data",
+      "Basis of sample selection": null,
       "Additional collection information": null
     },
     "edible_inedible_part": {

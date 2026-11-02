@@ -1222,8 +1222,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Dornod)",
-      "mn": "Халтар арвай (жишиг, Дорнод)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -1254,13 +1254,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1298,8 +1298,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Dornod)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Дорнод)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -1330,13 +1330,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1374,8 +1374,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Dornod)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Дорнод)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -1406,13 +1406,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1450,8 +1450,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Dornod)",
-      "mn": "Хонины ясгүй мах (жишиг, Дорнод)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -1482,13 +1482,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1526,8 +1526,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Dornod)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Дорнод)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -1558,13 +1558,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1602,8 +1602,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Dornod)",
-      "mn": "Бяслаг (жишиг, Дорнод)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -1634,13 +1634,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1678,8 +1678,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Dornod)",
-      "mn": "Ааруул (жишиг, Дорнод)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -1710,13 +1710,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1754,8 +1754,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Dornod)",
-      "mn": "Ямааны сүү (жишиг, Дорнод)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -1786,13 +1786,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1830,8 +1830,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Dornod)",
-      "mn": "Үхрийн сүү (жишиг, Дорнод)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -1862,13 +1862,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1906,8 +1906,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Dornod)",
-      "mn": "Цөцгийн тос (жишиг, Дорнод)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -1938,13 +1938,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -1982,8 +1982,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Dornod)",
-      "mn": "Шар тос (жишиг, Дорнод)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -2014,13 +2014,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2058,8 +2058,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Dornod)",
-      "mn": "Айраг (жишиг, Дорнод)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -2090,13 +2090,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2134,8 +2134,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Bayan-Ulgii)",
-      "mn": "Халтар арвай (жишиг, Баян-Өлгий)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -2166,13 +2166,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2210,8 +2210,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Bayan-Ulgii)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Баян-Өлгий)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -2242,13 +2242,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2286,8 +2286,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Bayan-Ulgii)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Баян-Өлгий)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -2318,13 +2318,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2362,8 +2362,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Bayan-Ulgii)",
-      "mn": "Хонины ясгүй мах (жишиг, Баян-Өлгий)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -2394,13 +2394,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2438,8 +2438,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Bayan-Ulgii)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Баян-Өлгий)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -2470,13 +2470,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2514,8 +2514,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Bayan-Ulgii)",
-      "mn": "Бяслаг (жишиг, Баян-Өлгий)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -2546,13 +2546,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2590,8 +2590,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Bayan-Ulgii)",
-      "mn": "Ааруул (жишиг, Баян-Өлгий)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -2622,13 +2622,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2666,8 +2666,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Bayan-Ulgii)",
-      "mn": "Ямааны сүү (жишиг, Баян-Өлгий)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -2698,13 +2698,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2742,8 +2742,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Bayan-Ulgii)",
-      "mn": "Үхрийн сүү (жишиг, Баян-Өлгий)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -2774,13 +2774,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2818,8 +2818,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Bayan-Ulgii)",
-      "mn": "Цөцгийн тос (жишиг, Баян-Өлгий)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -2850,13 +2850,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2894,8 +2894,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Bayan-Ulgii)",
-      "mn": "Шар тос (жишиг, Баян-Өлгий)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -2926,13 +2926,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -2970,8 +2970,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Bayan-Ulgii)",
-      "mn": "Айраг (жишиг, Баян-Өлгий)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -3002,13 +3002,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3046,8 +3046,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Khovd)",
-      "mn": "Халтар арвай (жишиг, Ховд)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -3078,13 +3078,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3122,8 +3122,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Khovd)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Ховд)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -3154,13 +3154,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3198,8 +3198,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Khovd)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Ховд)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -3230,13 +3230,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3274,8 +3274,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Khovd)",
-      "mn": "Хонины ясгүй мах (жишиг, Ховд)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -3306,13 +3306,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3350,8 +3350,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Khovd)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Ховд)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -3382,13 +3382,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3426,8 +3426,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Khovd)",
-      "mn": "Бяслаг (жишиг, Ховд)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -3458,13 +3458,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3502,8 +3502,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Khovd)",
-      "mn": "Ааруул (жишиг, Ховд)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -3534,13 +3534,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3578,8 +3578,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Khovd)",
-      "mn": "Ямааны сүү (жишиг, Ховд)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -3610,13 +3610,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3654,8 +3654,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Khovd)",
-      "mn": "Үхрийн сүү (жишиг, Ховд)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -3686,13 +3686,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3730,8 +3730,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Khovd)",
-      "mn": "Цөцгийн тос (жишиг, Ховд)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -3762,13 +3762,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3806,8 +3806,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Khovd)",
-      "mn": "Шар тос (жишиг, Ховд)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -3838,13 +3838,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3882,8 +3882,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Khovd)",
-      "mn": "Айраг (жишиг, Ховд)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -3914,13 +3914,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -3958,8 +3958,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Sukhbaatar)",
-      "mn": "Халтар арвай (жишиг, Сүхбаатар)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -3990,13 +3990,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4034,8 +4034,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Sukhbaatar)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Сүхбаатар)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -4066,13 +4066,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4110,8 +4110,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Sukhbaatar)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Сүхбаатар)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -4142,13 +4142,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4186,8 +4186,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Sukhbaatar)",
-      "mn": "Хонины ясгүй мах (жишиг, Сүхбаатар)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -4218,13 +4218,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4262,8 +4262,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Sukhbaatar)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Сүхбаатар)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -4294,13 +4294,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4338,8 +4338,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Sukhbaatar)",
-      "mn": "Бяслаг (жишиг, Сүхбаатар)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -4370,13 +4370,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4414,8 +4414,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Sukhbaatar)",
-      "mn": "Ааруул (жишиг, Сүхбаатар)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -4446,13 +4446,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4490,8 +4490,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Sukhbaatar)",
-      "mn": "Ямааны сүү (жишиг, Сүхбаатар)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -4522,13 +4522,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4566,8 +4566,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Sukhbaatar)",
-      "mn": "Үхрийн сүү (жишиг, Сүхбаатар)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -4598,13 +4598,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4642,8 +4642,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Sukhbaatar)",
-      "mn": "Цөцгийн тос (жишиг, Сүхбаатар)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -4674,13 +4674,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4718,8 +4718,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Sukhbaatar)",
-      "mn": "Шар тос (жишиг, Сүхбаатар)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -4750,13 +4750,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4794,8 +4794,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Sukhbaatar)",
-      "mn": "Айраг (жишиг, Сүхбаатар)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -4826,13 +4826,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4870,8 +4870,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Dornogovi)",
-      "mn": "Халтар арвай (жишиг, Дорноговь)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -4902,13 +4902,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -4946,8 +4946,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Dornogovi)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Дорноговь)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -4978,13 +4978,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5022,8 +5022,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Dornogovi)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Дорноговь)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -5054,13 +5054,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5098,8 +5098,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Dornogovi)",
-      "mn": "Хонины ясгүй мах (жишиг, Дорноговь)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -5130,13 +5130,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5174,8 +5174,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Dornogovi)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Дорноговь)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -5206,13 +5206,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5250,8 +5250,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Dornogovi)",
-      "mn": "Бяслаг (жишиг, Дорноговь)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -5282,13 +5282,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5326,8 +5326,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Dornogovi)",
-      "mn": "Ааруул (жишиг, Дорноговь)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -5358,13 +5358,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5402,8 +5402,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Dornogovi)",
-      "mn": "Ямааны сүү (жишиг, Дорноговь)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -5434,13 +5434,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5478,8 +5478,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Dornogovi)",
-      "mn": "Үхрийн сүү (жишиг, Дорноговь)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -5510,13 +5510,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5554,8 +5554,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Dornogovi)",
-      "mn": "Цөцгийн тос (жишиг, Дорноговь)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -5586,13 +5586,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5630,8 +5630,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Dornogovi)",
-      "mn": "Шар тос (жишиг, Дорноговь)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -5662,13 +5662,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5706,8 +5706,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Dornogovi)",
-      "mn": "Айраг (жишиг, Дорноговь)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -5738,13 +5738,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5782,8 +5782,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Govi-Altai)",
-      "mn": "Халтар арвай (жишиг, Говь-Алтай)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -5814,13 +5814,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5858,8 +5858,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Govi-Altai)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Говь-Алтай)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -5890,13 +5890,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -5934,8 +5934,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Govi-Altai)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Говь-Алтай)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -5966,13 +5966,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6010,8 +6010,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Govi-Altai)",
-      "mn": "Хонины ясгүй мах (жишиг, Говь-Алтай)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -6042,13 +6042,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6086,8 +6086,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Govi-Altai)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Говь-Алтай)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -6118,13 +6118,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6162,8 +6162,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Govi-Altai)",
-      "mn": "Бяслаг (жишиг, Говь-Алтай)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -6194,13 +6194,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6238,8 +6238,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Govi-Altai)",
-      "mn": "Ааруул (жишиг, Говь-Алтай)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -6270,13 +6270,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6314,8 +6314,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Govi-Altai)",
-      "mn": "Ямааны сүү (жишиг, Говь-Алтай)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -6346,13 +6346,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6390,8 +6390,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Govi-Altai)",
-      "mn": "Үхрийн сүү (жишиг, Говь-Алтай)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -6422,13 +6422,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6466,8 +6466,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Govi-Altai)",
-      "mn": "Цөцгийн тос (жишиг, Говь-Алтай)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -6498,13 +6498,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6542,8 +6542,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Govi-Altai)",
-      "mn": "Шар тос (жишиг, Говь-Алтай)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -6574,13 +6574,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6618,8 +6618,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Govi-Altai)",
-      "mn": "Айраг (жишиг, Говь-Алтай)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -6650,13 +6650,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6694,8 +6694,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Bayankhongor)",
-      "mn": "Халтар арвай (жишиг, Баянхонгор)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -6726,13 +6726,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6770,8 +6770,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Bayankhongor)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Баянхонгор)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -6802,13 +6802,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6846,8 +6846,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Bayankhongor)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Баянхонгор)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -6878,13 +6878,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6922,8 +6922,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Bayankhongor)",
-      "mn": "Хонины ясгүй мах (жишиг, Баянхонгор)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -6954,13 +6954,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -6998,8 +6998,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Bayankhongor)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Баянхонгор)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -7030,13 +7030,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7074,8 +7074,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Bayankhongor)",
-      "mn": "Бяслаг (жишиг, Баянхонгор)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -7106,13 +7106,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7150,8 +7150,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Bayankhongor)",
-      "mn": "Ааруул (жишиг, Баянхонгор)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -7182,13 +7182,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7226,8 +7226,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Bayankhongor)",
-      "mn": "Ямааны сүү (жишиг, Баянхонгор)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -7258,13 +7258,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7302,8 +7302,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Bayankhongor)",
-      "mn": "Үхрийн сүү (жишиг, Баянхонгор)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -7334,13 +7334,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7378,8 +7378,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Bayankhongor)",
-      "mn": "Цөцгийн тос (жишиг, Баянхонгор)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -7410,13 +7410,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7454,8 +7454,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Bayankhongor)",
-      "mn": "Шар тос (жишиг, Баянхонгор)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -7486,13 +7486,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7530,8 +7530,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Bayankhongor)",
-      "mn": "Айраг (жишиг, Баянхонгор)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -7562,13 +7562,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7606,8 +7606,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Umnugovi)",
-      "mn": "Халтар арвай (жишиг, Өмнөговь)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -7638,13 +7638,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7682,8 +7682,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Umnugovi)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Өмнөговь)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -7714,13 +7714,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7758,8 +7758,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Umnugovi)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Өмнөговь)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -7790,13 +7790,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7834,8 +7834,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Umnugovi)",
-      "mn": "Хонины ясгүй мах (жишиг, Өмнөговь)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -7866,13 +7866,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7910,8 +7910,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Umnugovi)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Өмнөговь)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -7942,13 +7942,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -7986,8 +7986,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Umnugovi)",
-      "mn": "Бяслаг (жишиг, Өмнөговь)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -8018,13 +8018,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8062,8 +8062,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Umnugovi)",
-      "mn": "Ааруул (жишиг, Өмнөговь)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -8094,13 +8094,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8138,8 +8138,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Umnugovi)",
-      "mn": "Ямааны сүү (жишиг, Өмнөговь)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -8170,13 +8170,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8214,8 +8214,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Umnugovi)",
-      "mn": "Үхрийн сүү (жишиг, Өмнөговь)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -8246,13 +8246,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8290,8 +8290,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Umnugovi)",
-      "mn": "Цөцгийн тос (жишиг, Өмнөговь)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -8322,13 +8322,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8366,8 +8366,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Umnugovi)",
-      "mn": "Шар тос (жишиг, Өмнөговь)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -8398,13 +8398,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8442,8 +8442,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Umnugovi)",
-      "mn": "Айраг (жишиг, Өмнөговь)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -8474,13 +8474,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8518,8 +8518,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Bulgan)",
-      "mn": "Халтар арвай (жишиг, Булган)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -8550,13 +8550,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8594,8 +8594,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Bulgan)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Булган)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -8626,13 +8626,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8670,8 +8670,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Bulgan)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Булган)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -8702,13 +8702,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8746,8 +8746,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Bulgan)",
-      "mn": "Хонины ясгүй мах (жишиг, Булган)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -8778,13 +8778,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8822,8 +8822,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Bulgan)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Булган)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -8854,13 +8854,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8898,8 +8898,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Bulgan)",
-      "mn": "Бяслаг (жишиг, Булган)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -8930,13 +8930,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -8974,8 +8974,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Bulgan)",
-      "mn": "Ааруул (жишиг, Булган)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -9006,13 +9006,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9050,8 +9050,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Bulgan)",
-      "mn": "Ямааны сүү (жишиг, Булган)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -9082,13 +9082,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9126,8 +9126,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Bulgan)",
-      "mn": "Үхрийн сүү (жишиг, Булган)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -9158,13 +9158,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9202,8 +9202,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Bulgan)",
-      "mn": "Цөцгийн тос (жишиг, Булган)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -9234,13 +9234,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9278,8 +9278,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Bulgan)",
-      "mn": "Шар тос (жишиг, Булган)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -9310,13 +9310,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9354,8 +9354,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Bulgan)",
-      "mn": "Айраг (жишиг, Булган)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -9386,13 +9386,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9430,8 +9430,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Selenge)",
-      "mn": "Халтар арвай (жишиг, Сэлэнгэ)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -9462,13 +9462,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9506,8 +9506,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Selenge)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Сэлэнгэ)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -9538,13 +9538,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9582,8 +9582,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Selenge)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Сэлэнгэ)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -9614,13 +9614,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9658,8 +9658,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Selenge)",
-      "mn": "Хонины ясгүй мах (жишиг, Сэлэнгэ)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -9690,13 +9690,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9734,8 +9734,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Selenge)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Сэлэнгэ)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -9766,13 +9766,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9810,8 +9810,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Selenge)",
-      "mn": "Бяслаг (жишиг, Сэлэнгэ)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -9842,13 +9842,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9886,8 +9886,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Selenge)",
-      "mn": "Ааруул (жишиг, Сэлэнгэ)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -9918,13 +9918,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -9962,8 +9962,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Selenge)",
-      "mn": "Ямааны сүү (жишиг, Сэлэнгэ)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -9994,13 +9994,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10038,8 +10038,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Selenge)",
-      "mn": "Үхрийн сүү (жишиг, Сэлэнгэ)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -10070,13 +10070,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10114,8 +10114,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Selenge)",
-      "mn": "Цөцгийн тос (жишиг, Сэлэнгэ)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -10146,13 +10146,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10190,8 +10190,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Selenge)",
-      "mn": "Шар тос (жишиг, Сэлэнгэ)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -10222,13 +10222,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10266,8 +10266,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Selenge)",
-      "mn": "Айраг (жишиг, Сэлэнгэ)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -10298,13 +10298,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10342,8 +10342,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Zavkhan)",
-      "mn": "Халтар арвай (жишиг, Завхан)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -10374,13 +10374,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10418,8 +10418,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Zavkhan)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Завхан)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -10450,13 +10450,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10494,8 +10494,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Zavkhan)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Завхан)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -10526,13 +10526,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10570,8 +10570,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Zavkhan)",
-      "mn": "Хонины ясгүй мах (жишиг, Завхан)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -10602,13 +10602,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10646,8 +10646,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Zavkhan)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Завхан)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -10678,13 +10678,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10722,8 +10722,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Zavkhan)",
-      "mn": "Бяслаг (жишиг, Завхан)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -10754,13 +10754,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10798,8 +10798,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Zavkhan)",
-      "mn": "Ааруул (жишиг, Завхан)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -10830,13 +10830,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10874,8 +10874,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Zavkhan)",
-      "mn": "Ямааны сүү (жишиг, Завхан)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -10906,13 +10906,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -10950,8 +10950,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Zavkhan)",
-      "mn": "Үхрийн сүү (жишиг, Завхан)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -10982,13 +10982,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11026,8 +11026,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Zavkhan)",
-      "mn": "Цөцгийн тос (жишиг, Завхан)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -11058,13 +11058,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11102,8 +11102,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Zavkhan)",
-      "mn": "Шар тос (жишиг, Завхан)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -11134,13 +11134,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11178,8 +11178,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Zavkhan)",
-      "mn": "Айраг (жишиг, Завхан)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -11210,13 +11210,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11254,8 +11254,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Khentii)",
-      "mn": "Халтар арвай (жишиг, Хэнтий)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -11286,13 +11286,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11330,8 +11330,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Khentii)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Хэнтий)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -11362,13 +11362,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11406,8 +11406,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Khentii)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Хэнтий)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -11438,13 +11438,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11482,8 +11482,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Khentii)",
-      "mn": "Хонины ясгүй мах (жишиг, Хэнтий)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -11514,13 +11514,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11558,8 +11558,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Khentii)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Хэнтий)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -11590,13 +11590,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11634,8 +11634,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Khentii)",
-      "mn": "Бяслаг (жишиг, Хэнтий)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -11666,13 +11666,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11710,8 +11710,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Khentii)",
-      "mn": "Ааруул (жишиг, Хэнтий)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -11742,13 +11742,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11786,8 +11786,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Khentii)",
-      "mn": "Ямааны сүү (жишиг, Хэнтий)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -11818,13 +11818,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11862,8 +11862,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Khentii)",
-      "mn": "Үхрийн сүү (жишиг, Хэнтий)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -11894,13 +11894,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -11938,8 +11938,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Khentii)",
-      "mn": "Цөцгийн тос (жишиг, Хэнтий)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -11970,13 +11970,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12014,8 +12014,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Khentii)",
-      "mn": "Шар тос (жишиг, Хэнтий)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -12046,13 +12046,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12090,8 +12090,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Khentii)",
-      "mn": "Айраг (жишиг, Хэнтий)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -12122,13 +12122,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12166,8 +12166,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Tuv)",
-      "mn": "Халтар арвай (жишиг, Төв)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -12198,13 +12198,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12242,8 +12242,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Tuv)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Төв)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -12274,13 +12274,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12318,8 +12318,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Tuv)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Төв)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -12350,13 +12350,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12394,8 +12394,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Tuv)",
-      "mn": "Хонины ясгүй мах (жишиг, Төв)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -12426,13 +12426,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12470,8 +12470,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Tuv)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Төв)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -12502,13 +12502,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12546,8 +12546,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Tuv)",
-      "mn": "Бяслаг (жишиг, Төв)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -12578,13 +12578,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12622,8 +12622,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Tuv)",
-      "mn": "Ааруул (жишиг, Төв)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -12654,13 +12654,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12698,8 +12698,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Tuv)",
-      "mn": "Ямааны сүү (жишиг, Төв)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -12730,13 +12730,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12774,8 +12774,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Tuv)",
-      "mn": "Үхрийн сүү (жишиг, Төв)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -12806,13 +12806,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12850,8 +12850,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Tuv)",
-      "mn": "Цөцгийн тос (жишиг, Төв)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -12882,13 +12882,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -12926,8 +12926,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Tuv)",
-      "mn": "Шар тос (жишиг, Төв)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -12958,13 +12958,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13002,8 +13002,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Tuv)",
-      "mn": "Айраг (жишиг, Төв)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -13034,13 +13034,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13078,8 +13078,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Arkhangai)",
-      "mn": "Халтар арвай (жишиг, Архангай)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -13110,13 +13110,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13154,8 +13154,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Arkhangai)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Архангай)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -13186,13 +13186,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13230,8 +13230,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Arkhangai)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Архангай)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -13262,13 +13262,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13306,8 +13306,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Arkhangai)",
-      "mn": "Хонины ясгүй мах (жишиг, Архангай)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -13338,13 +13338,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13382,8 +13382,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Arkhangai)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Архангай)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -13414,13 +13414,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13458,8 +13458,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Arkhangai)",
-      "mn": "Бяслаг (жишиг, Архангай)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -13490,13 +13490,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13534,8 +13534,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Arkhangai)",
-      "mn": "Ааруул (жишиг, Архангай)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -13566,13 +13566,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13610,8 +13610,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Arkhangai)",
-      "mn": "Ямааны сүү (жишиг, Архангай)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -13642,13 +13642,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13686,8 +13686,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Arkhangai)",
-      "mn": "Үхрийн сүү (жишиг, Архангай)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -13718,13 +13718,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13762,8 +13762,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Arkhangai)",
-      "mn": "Цөцгийн тос (жишиг, Архангай)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -13794,13 +13794,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13838,8 +13838,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Arkhangai)",
-      "mn": "Шар тос (жишиг, Архангай)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -13870,13 +13870,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13914,8 +13914,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Arkhangai)",
-      "mn": "Айраг (жишиг, Архангай)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -13946,13 +13946,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -13990,8 +13990,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Orkhon)",
-      "mn": "Халтар арвай (жишиг, Орхон)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -14022,13 +14022,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14066,8 +14066,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Orkhon)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Орхон)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -14098,13 +14098,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14142,8 +14142,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Orkhon)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Орхон)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -14174,13 +14174,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14218,8 +14218,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Orkhon)",
-      "mn": "Хонины ясгүй мах (жишиг, Орхон)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -14250,13 +14250,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14294,8 +14294,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Orkhon)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Орхон)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -14326,13 +14326,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14370,8 +14370,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Orkhon)",
-      "mn": "Бяслаг (жишиг, Орхон)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -14402,13 +14402,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14446,8 +14446,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Orkhon)",
-      "mn": "Ааруул (жишиг, Орхон)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -14478,13 +14478,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14522,8 +14522,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Orkhon)",
-      "mn": "Ямааны сүү (жишиг, Орхон)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -14554,13 +14554,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14598,8 +14598,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Orkhon)",
-      "mn": "Үхрийн сүү (жишиг, Орхон)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -14630,13 +14630,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14674,8 +14674,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Orkhon)",
-      "mn": "Цөцгийн тос (жишиг, Орхон)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -14706,13 +14706,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14750,8 +14750,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Orkhon)",
-      "mn": "Шар тос (жишиг, Орхон)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -14782,13 +14782,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14826,8 +14826,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Orkhon)",
-      "mn": "Айраг (жишиг, Орхон)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -14858,13 +14858,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14902,8 +14902,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Dundgovi)",
-      "mn": "Халтар арвай (жишиг, Дундговь)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -14934,13 +14934,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -14978,8 +14978,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Dundgovi)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Дундговь)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -15010,13 +15010,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15054,8 +15054,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Dundgovi)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Дундговь)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -15086,13 +15086,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15130,8 +15130,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Dundgovi)",
-      "mn": "Хонины ясгүй мах (жишиг, Дундговь)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -15162,13 +15162,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15206,8 +15206,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Dundgovi)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Дундговь)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -15238,13 +15238,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15282,8 +15282,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Dundgovi)",
-      "mn": "Бяслаг (жишиг, Дундговь)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -15314,13 +15314,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15358,8 +15358,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Dundgovi)",
-      "mn": "Ааруул (жишиг, Дундговь)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -15390,13 +15390,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15434,8 +15434,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Dundgovi)",
-      "mn": "Ямааны сүү (жишиг, Дундговь)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -15466,13 +15466,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15510,8 +15510,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Dundgovi)",
-      "mn": "Үхрийн сүү (жишиг, Дундговь)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -15542,13 +15542,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15586,8 +15586,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Dundgovi)",
-      "mn": "Цөцгийн тос (жишиг, Дундговь)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -15618,13 +15618,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15662,8 +15662,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Dundgovi)",
-      "mn": "Шар тос (жишиг, Дундговь)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -15694,13 +15694,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15738,8 +15738,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Dundgovi)",
-      "mn": "Айраг (жишиг, Дундговь)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -15770,13 +15770,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15814,8 +15814,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Uvurkhangai)",
-      "mn": "Халтар арвай (жишиг, Өвөрхангай)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -15846,13 +15846,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15890,8 +15890,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Uvurkhangai)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Өвөрхангай)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -15922,13 +15922,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -15966,8 +15966,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Uvurkhangai)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Өвөрхангай)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -15998,13 +15998,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16042,8 +16042,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Uvurkhangai)",
-      "mn": "Хонины ясгүй мах (жишиг, Өвөрхангай)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -16074,13 +16074,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16118,8 +16118,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Uvurkhangai)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Өвөрхангай)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -16150,13 +16150,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16194,8 +16194,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Uvurkhangai)",
-      "mn": "Бяслаг (жишиг, Өвөрхангай)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -16226,13 +16226,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16270,8 +16270,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Uvurkhangai)",
-      "mn": "Ааруул (жишиг, Өвөрхангай)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -16302,13 +16302,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16346,8 +16346,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Uvurkhangai)",
-      "mn": "Ямааны сүү (жишиг, Өвөрхангай)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -16378,13 +16378,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16422,8 +16422,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Uvurkhangai)",
-      "mn": "Үхрийн сүү (жишиг, Өвөрхангай)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -16454,13 +16454,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16498,8 +16498,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Uvurkhangai)",
-      "mn": "Цөцгийн тос (жишиг, Өвөрхангай)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -16530,13 +16530,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16574,8 +16574,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Uvurkhangai)",
-      "mn": "Шар тос (жишиг, Өвөрхангай)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -16606,13 +16606,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16650,8 +16650,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Uvurkhangai)",
-      "mn": "Айраг (жишиг, Өвөрхангай)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -16682,13 +16682,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16726,8 +16726,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Govi-Sumber)",
-      "mn": "Халтар арвай (жишиг, Говьсүмбэр)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -16758,13 +16758,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16802,8 +16802,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Govi-Sumber)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Говьсүмбэр)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -16834,13 +16834,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16878,8 +16878,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Govi-Sumber)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Говьсүмбэр)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -16910,13 +16910,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -16954,8 +16954,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Govi-Sumber)",
-      "mn": "Хонины ясгүй мах (жишиг, Говьсүмбэр)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -16986,13 +16986,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17030,8 +17030,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Govi-Sumber)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Говьсүмбэр)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -17062,13 +17062,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17106,8 +17106,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Govi-Sumber)",
-      "mn": "Бяслаг (жишиг, Говьсүмбэр)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -17138,13 +17138,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17182,8 +17182,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Govi-Sumber)",
-      "mn": "Ааруул (жишиг, Говьсүмбэр)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -17214,13 +17214,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17258,8 +17258,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Govi-Sumber)",
-      "mn": "Ямааны сүү (жишиг, Говьсүмбэр)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -17290,13 +17290,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17334,8 +17334,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Govi-Sumber)",
-      "mn": "Үхрийн сүү (жишиг, Говьсүмбэр)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -17366,13 +17366,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17410,8 +17410,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Govi-Sumber)",
-      "mn": "Цөцгийн тос (жишиг, Говьсүмбэр)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -17442,13 +17442,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17486,8 +17486,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Govi-Sumber)",
-      "mn": "Шар тос (жишиг, Говьсүмбэр)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -17518,13 +17518,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17562,8 +17562,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Govi-Sumber)",
-      "mn": "Айраг (жишиг, Говьсүмбэр)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -17594,13 +17594,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17638,8 +17638,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Ulaanbaatar)",
-      "mn": "Халтар арвай (жишиг, Улаанбаатар)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -17670,13 +17670,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17714,8 +17714,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Ulaanbaatar)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Улаанбаатар)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -17746,13 +17746,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17790,8 +17790,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Ulaanbaatar)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Улаанбаатар)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -17822,13 +17822,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17866,8 +17866,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Ulaanbaatar)",
-      "mn": "Хонины ясгүй мах (жишиг, Улаанбаатар)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -17898,13 +17898,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -17942,8 +17942,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Ulaanbaatar)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Улаанбаатар)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -17974,13 +17974,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18018,8 +18018,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Ulaanbaatar)",
-      "mn": "Бяслаг (жишиг, Улаанбаатар)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -18050,13 +18050,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18094,8 +18094,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Ulaanbaatar)",
-      "mn": "Ааруул (жишиг, Улаанбаатар)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -18126,13 +18126,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18170,8 +18170,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Ulaanbaatar)",
-      "mn": "Ямааны сүү (жишиг, Улаанбаатар)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -18202,13 +18202,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18246,8 +18246,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Ulaanbaatar)",
-      "mn": "Үхрийн сүү (жишиг, Улаанбаатар)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -18278,13 +18278,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18322,8 +18322,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Ulaanbaatar)",
-      "mn": "Цөцгийн тос (жишиг, Улаанбаатар)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -18354,13 +18354,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18398,8 +18398,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Ulaanbaatar)",
-      "mn": "Шар тос (жишиг, Улаанбаатар)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -18430,13 +18430,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18474,8 +18474,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Ulaanbaatar)",
-      "mn": "Айраг (жишиг, Улаанбаатар)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -18506,13 +18506,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18550,8 +18550,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Uvs)",
-      "mn": "Халтар арвай (жишиг, Увс)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -18582,13 +18582,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18626,8 +18626,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Uvs)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Увс)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -18658,13 +18658,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18702,8 +18702,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Uvs)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Увс)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -18734,13 +18734,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18778,8 +18778,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Uvs)",
-      "mn": "Хонины ясгүй мах (жишиг, Увс)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -18810,13 +18810,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18854,8 +18854,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Uvs)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Увс)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -18886,13 +18886,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -18930,8 +18930,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Uvs)",
-      "mn": "Бяслаг (жишиг, Увс)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -18962,13 +18962,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19006,8 +19006,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Uvs)",
-      "mn": "Ааруул (жишиг, Увс)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -19038,13 +19038,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19082,8 +19082,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Uvs)",
-      "mn": "Ямааны сүү (жишиг, Увс)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -19114,13 +19114,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19158,8 +19158,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Uvs)",
-      "mn": "Үхрийн сүү (жишиг, Увс)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -19190,13 +19190,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19234,8 +19234,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Uvs)",
-      "mn": "Цөцгийн тос (жишиг, Увс)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -19266,13 +19266,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19310,8 +19310,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Uvs)",
-      "mn": "Шар тос (жишиг, Увс)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -19342,13 +19342,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19386,8 +19386,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Uvs)",
-      "mn": "Айраг (жишиг, Увс)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -19418,13 +19418,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19462,8 +19462,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Pearled barley (sample, Darkhan-Uul)",
-      "mn": "Халтар арвай (жишиг, Дархан-Уул)"
+      "en": "Pearled barley",
+      "mn": "Халтар арвай"
     },
     "scientific_name": null,
     "province": {
@@ -19494,13 +19494,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19538,8 +19538,8 @@
       "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Whole grain flour (sample, Darkhan-Uul)",
-      "mn": "Бүхэл үрийн гурил (жишиг, Дархан-Уул)"
+      "en": "Whole grain flour",
+      "mn": "Бүхэл үрийн гурил"
     },
     "scientific_name": null,
     "province": {
@@ -19570,13 +19570,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19614,8 +19614,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Beef, boneless (sample, Darkhan-Uul)",
-      "mn": "Үхрийн ясгүй мах (жишиг, Дархан-Уул)"
+      "en": "Beef, boneless",
+      "mn": "Үхрийн ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -19646,13 +19646,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19690,8 +19690,8 @@
       "mn": "Мах ба махан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Mutton, boneless (sample, Darkhan-Uul)",
-      "mn": "Хонины ясгүй мах (жишиг, Дархан-Уул)"
+      "en": "Mutton, boneless",
+      "mn": "Хонины ясгүй мах"
     },
     "scientific_name": null,
     "province": {
@@ -19722,13 +19722,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19766,8 +19766,8 @@
       "mn": "Загас ба загасан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "White fish, frozen (sample, Darkhan-Uul)",
-      "mn": "Цагаан загас, хөлдөөсөн (жишиг, Дархан-Уул)"
+      "en": "White fish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
     },
     "scientific_name": null,
     "province": {
@@ -19798,13 +19798,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19842,8 +19842,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cheese (sample, Darkhan-Uul)",
-      "mn": "Бяслаг (жишиг, Дархан-Уул)"
+      "en": "Cheese",
+      "mn": "Бяслаг"
     },
     "scientific_name": null,
     "province": {
@@ -19874,13 +19874,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19918,8 +19918,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Aaruul (sample, Darkhan-Uul)",
-      "mn": "Ааруул (жишиг, Дархан-Уул)"
+      "en": "Aaruul",
+      "mn": "Ааруул"
     },
     "scientific_name": null,
     "province": {
@@ -19950,13 +19950,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -19994,8 +19994,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Goat milk (sample, Darkhan-Uul)",
-      "mn": "Ямааны сүү (жишиг, Дархан-Уул)"
+      "en": "Goat milk",
+      "mn": "Ямааны сүү"
     },
     "scientific_name": null,
     "province": {
@@ -20026,13 +20026,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -20070,8 +20070,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Cow milk (sample, Darkhan-Uul)",
-      "mn": "Үхрийн сүү (жишиг, Дархан-Уул)"
+      "en": "Cow milk",
+      "mn": "Үхрийн сүү"
     },
     "scientific_name": null,
     "province": {
@@ -20102,13 +20102,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -20146,8 +20146,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Butter (sample, Darkhan-Uul)",
-      "mn": "Цөцгийн тос (жишиг, Дархан-Уул)"
+      "en": "Butter",
+      "mn": "Цөцгийн тос"
     },
     "scientific_name": null,
     "province": {
@@ -20178,13 +20178,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -20222,8 +20222,8 @@
       "mn": "Тос ба өөх тос"
     },
     "food_name": {
-      "en": "Yellow butter (sample, Darkhan-Uul)",
-      "mn": "Шар тос (жишиг, Дархан-Уул)"
+      "en": "Yellow butter",
+      "mn": "Шар тос"
     },
     "scientific_name": null,
     "province": {
@@ -20254,13 +20254,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
@@ -20298,8 +20298,8 @@
       "mn": "Сүү ба сүүн бүтээгдэхүүн"
     },
     "food_name": {
-      "en": "Airag (sample, Darkhan-Uul)",
-      "mn": "Айраг (жишиг, Дархан-Уул)"
+      "en": "Airag",
+      "mn": "Айраг"
     },
     "scientific_name": null,
     "province": {
@@ -20330,13 +20330,13 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Collection date": null,
       "Basis of sample selection": {
-        "en": "Sample data",
-        "mn": "Жишиг өгөгдөл"
+        "en": "",
+        "mn": ""
       },
       "Additional collection information": {
         "en": "",
